@@ -1,27 +1,12 @@
 # Morrowind PL Patch
 
-Kompletna aktualizacja polskich tekstów w formie słowników i konwertera przeznaczona na ostatnią polską wersję gry, czyli:
+Kompletna aktualizacja polskich tekstów w formie plików esm przeznaczona na ostatnią polską wersję gry, czyli:
 Morrowind + Tribunal + Bloodmoon + Patch 1.6.1820.
-
-### Główne zadania
-
-- Poprawienie jak największej ilości błędów w tłumaczeniu polskiej wersji gry
-- Umożliwienie uruchomienia bez błędów angielskich modów na polskiej wersji
-- Tłumaczenie Patch for Purists
-
-### Opis działania
-
-Konwerter po uruchomieniu skryptu przetwarza wszystkie pliki esm i esp w folderze *Data Files* na podstawie słowników bazowych w folderze *dict_base* oraz słowników użytkownika w folderze *dict_user*.
-Dodatkowo dodaje nazwy tematów dialogowych do nieprzetłumaczonych jeszcze tekstów angielskich (czyli takich których nie ma w żadnym słowniku).
-Dzięki temu możliwe jest uruchomienie dużych modów (jak Tamriel Rebuilt, czy LGNPC) na polskiej wersji. Problemem w tym wypadku były brakujące hiperlinki, które powodowały niemożliwość ukończenia niektórych zadań.
-
-**Należy rozpocząć nową grę**, ponieważ przekonwertowane pliki tworzą oddzielną gałąź pluginów z sufiksem (plpatch), czyli nie są kompatybilne z modami i zapisami wymagającymi oryginalnych plików.
-Jest to spowodowane tym że patch zmienia wiele nazw komórek i tematów dialogowych które nie posiadają unikalnego identyfikatora.
+Główny zadaniem patcha jest poprawienie jak największej ilości błędów w **tłumaczeniu polskiej wersji gry**.
 
 ### Założenia
 
-- Wprowadzenie poprawek z Patch for Purists
-- Wprowadzenie poprawek związanych tylko z polską wersją: urwane lub nieprzetłumaczone teksty oraz brakujące hiperlinki
+- Wprowadzenie poprawek związanych z polską wersją: urwane lub nieprzetłumaczone teksty oraz brakujące hiperlinki
 - Poprawa bardzo źle przetłumaczonych tekstów, np.: lek na spaczenie -> lek na zarazę
 - Poprawa literówek, ortografii, interpunkcji oraz zasad polskiej pisowni
 - Poprawa jakości tekstu, rozwinięcia skrótów tam gdzie jest to możliwe
