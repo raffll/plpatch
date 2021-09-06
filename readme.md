@@ -21,7 +21,7 @@ Główny zadaniem patcha jest poprawienie jak największej ilości błędów w *
 
 - Usuń pliki z sufiksem *[plpatch].esm*
 
-### Czym się wspomagałem i ogólne podziękowania 
+### Czym się wspomagałem i ogólne podziękowania
 
 - Bethesda za grę do której chce mi się wracać po kilkunastu latach 
 - CDProject za tłumaczenie 
@@ -38,7 +38,7 @@ Główny zadaniem patcha jest poprawienie jak największej ilości błędów w *
 ### Prawa autorskie
 
 Ponieważ wiele ciekawych projektów i tłumaczeń ginie w odmętach internetu, ja osobiście nie roszczę sobie żadnych praw do tych plików.
-Możesz dowolnie modyfikować i umieszczać je gdzie chcesz. Konwerter z kolei udostępniany jest na licencji MIT. 
+Możesz dowolnie modyfikować i umieszczać je gdzie chcesz.
 
 Jeżeli masz jakieś uwagi, uważasz że jakaś zmiana jest niepotrzebna lub błędna, albo znalazłeś literówkę i chcesz się przyłączyć,
 napisz na naszym discordzie https://discord.gg/7DVB6b6
