@@ -15,9 +15,10 @@ fi
 mv "Morrowind.CREATED.esm" "Morrowind [plpatch].esm"
 mv "Tribunal.CREATED.esm" "Tribunal [plpatch].esm"
 mv "Bloodmoon.CREATED.esm" "Bloodmoon [plpatch].esm"
-cp "../readme.md" .
+cp "../README.md" .
+cp "../ENtoPL_plpatch.xml" .
 
-zip "$NAME.zip" "Morrowind [plpatch].esm" "Tribunal [plpatch].esm" "Bloodmoon [plpatch].esm" "readme.md"
+zip "$NAME.zip" "Morrowind [plpatch].esm" "Tribunal [plpatch].esm" "Bloodmoon [plpatch].esm" "README.md" "ENtoPL_plpatch.xml"
 
-rm "yampt.log" "Morrowind [plpatch].esm" "Tribunal [plpatch].esm" "Bloodmoon [plpatch].esm" "readme.md"
+rm "yampt.log" "Morrowind [plpatch].esm" "Tribunal [plpatch].esm" "Bloodmoon [plpatch].esm" "README.md" "ENtoPL_plpatch.xml"
 
