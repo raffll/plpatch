@@ -1,25 +1,25 @@
 # Morrowind PL Patch
 
-Kompletna aktualizacja polskich tekstów w formie plików esm przeznaczona na ostatnią polską wersję gry, czyli:
-Morrowind + Tribunal + Bloodmoon + Patch 1.6.1820.
+Kompletna aktualizacja polskich tekstów w formie plików esm przeznaczona na ostatnią polską wersję gry, czyli: Morrowind + Tribunal + Bloodmoon + Patch 1.6.1820.
 Główny zadaniem patcha jest poprawienie jak największej ilości błędów w **tłumaczeniu polskiej wersji gry**.
+Patch służy także jako uzupełnienie do Patch for Purists.
 
 ### Założenia
 
-- Wprowadzenie poprawek związanych z polską wersją: urwane lub nieprzetłumaczone teksty oraz brakujące hiperlinki
-- Poprawa bardzo źle przetłumaczonych tekstów, np.: lek na spaczenie -> lek na zarazę
+- Wprowadzenie poprawek tekstu z Patch for Purists
+- Wprowadzenie poprawek związanych tylko z polską wersją: urwane lub nieprzetłumaczone teksty oraz brakujące hiperlinki
 - Poprawa literówek, ortografii, interpunkcji oraz zasad polskiej pisowni
 - Poprawa jakości tekstu, rozwinięcia skrótów tam gdzie jest to możliwe
-- Ujednolicenie formatowania tekstów np.: dialogi w książkach
+- Ujednolicenie formatowania tekstów
 
 ### Instalacja
 
-- Skopiuj wszytskie pliki esm do folderu *Data Files*
-- Zaznacz pliki *[plpatch].esm* w launcherze
+- Skopiuj wszystkie pliki **[plpatch].esm** do folderu **Data Files**
+- Zaznacz pliki **[plpatch].esm** w launcherze
 
 ### Deinstalacja
 
-- Usuń pliki z sufiksem *[plpatch].esm*
+- Usuń pliki z sufiksem **[plpatch].esm**
 
 ### Czym się wspomagałem i ogólne podziękowania
 
@@ -42,8 +42,3 @@ Możesz dowolnie modyfikować i umieszczać je gdzie chcesz.
 
 Jeżeli masz jakieś uwagi, uważasz że jakaś zmiana jest niepotrzebna lub błędna, albo znalazłeś literówkę i chcesz się przyłączyć,
 napisz na naszym discordzie https://discord.gg/7DVB6b6
-
-### Historia zmian
-
-3.0
-- pierwsza wersja plpatcha w formie plików esm

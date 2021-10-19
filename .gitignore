@@ -2,10 +2,7 @@
 *.bak
 *.log
 *.txt
-Merged.xml
 *.zip
 *.esm
-work.WinMerge
-ENtoEN.xml
-build/yampt.exe
-EN.xml
+*.WinMerge
+*.exe
