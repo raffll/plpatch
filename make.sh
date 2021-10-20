@@ -15,4 +15,4 @@ mv "Morrowind.CREATED.esm" "Morrowind [plpatch].esm"
 mv "Tribunal.CREATED.esm" "Tribunal [plpatch].esm"
 mv "Bloodmoon.CREATED.esm" "Bloodmoon [plpatch].esm"
 
-zip "$NAME.zip" "Morrowind [plpatch].esm" "Tribunal [plpatch].esm" "Bloodmoon [plpatch].esm"
+zip "$NAME.zip" "Morrowind [plpatch].esm" "Tribunal [plpatch].esm" "Bloodmoon [plpatch].esm" "plpatch.bat" "przeczytaj_mnie.odt" "yampt.exe" "raport.htm" "ENtoPL_plpatch_DIAL.xml" "ENtoPL_plpatch_CELL.xml"
