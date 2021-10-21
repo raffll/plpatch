@@ -2065,13 +2065,8 @@
 <record>
 	<_id>DIAL</_id>
 	<key>Gnisis Temple</key>
-	<val>Œwi¹tynia w Gnisis</val>
+	<val>œwi¹tynia w Gnisis</val>
 </record>
-	<record>
-		<_id>DIAL</_id>
-		<key>œwi¹tynia w Gnisis</key>
-		<val>Œwi¹tynia w Gnisis</val>
-	</record>
 <record>
 	<_id>DIAL</_id>
 	<key>Godsreach</key>
@@ -3810,13 +3805,8 @@
 <record>
 	<_id>DIAL</_id>
 	<key>Redoran Master Helm</key>
-	<val>he³m redorañskiego mistrza</val>
+	<val>He³m Redorañskiego Mistrza</val>
 </record>
-	<record>
-		<_id>DIAL</_id>
-		<key>He³m Redorañskiego Mistrza</key>
-		<val>he³m redorañskiego mistrza</val>
-	</record>
 <record>
 	<_id>DIAL</_id>
 	<key>Redoran councilors</key>
