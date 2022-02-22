@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
+<!-- 3.1 -->
 <record>
 	<_id>DIAL</_id>
 	<key>1000-drake pledge</key>
@@ -2726,8 +2727,13 @@
 <record>
 	<_id>DIAL</_id>
 	<key>Justice Offices</key>
-	<val>strażnicy porządku</val>
+	<val>Biurze Sprawiedliwości</val>
 </record>
+	<record>
+		<_id>DIAL</_id>
+		<key>strażnicy porządku</key>
+		<val>Biurze Sprawiedliwości</val>
+	</record>
 <record>
 	<_id>DIAL</_id>
 	<key>Kagouti den</key>
