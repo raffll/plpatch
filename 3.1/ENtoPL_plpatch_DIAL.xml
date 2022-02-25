@@ -952,8 +952,13 @@
 <record>
 	<_id>DIAL</_id>
 	<key>Castle Karstaag</key>
-	<val>Zamek Karstaag</val>
+	<val>zamek Karstaag</val>
 </record>
+	<record>
+		<_id>DIAL</_id>
+		<key>Zamek Karstaag</key>
+		<val>zamek Karstaag</val>
+	</record>
 <record>
 	<_id>DIAL</_id>
 	<key>Census and Excise agent</key>
@@ -1864,23 +1869,38 @@
 <record>
 	<_id>DIAL</_id>
 	<key>Fort Buckmoth</key>
-	<val>Fort Jeleni</val>
+	<val>fort Jeleni</val>
 </record>
+	<record>
+		<_id>DIAL</_id>
+		<key>Fort Jeleni</key>
+		<val>fort Jeleni</val>
+	</record>
 <record>
 	<_id>DIAL</_id>
 	<key>Fort Darius</key>
-	<val>Fort Darius</val>
+	<val>fort Darius</val>
 </record>
 <record>
 	<_id>DIAL</_id>
 	<key>Fort Frostmoth</key>
-	<val>Fort Œnie¿ny</val>
+	<val>fort Œnie¿ny</val>
 </record>
+	<record>
+		<_id>DIAL</_id>
+		<key>Fort Œnie¿ny</key>
+		<val>fort Œnie¿ny</val>
+	</record>
 <record>
 	<_id>DIAL</_id>
 	<key>Fort Moonmoth</key>
-	<val>Fort Ksiê¿ycowy</val>
+	<val>fort Ksiê¿ycowy</val>
 </record>
+	<record>
+		<_id>DIAL</_id>
+		<key>Fort Ksiê¿ycowy</key>
+		<val>fort Ksiê¿ycowy</val>
+	</record>
 <record>
 	<_id>DIAL</_id>
 	<key>Fort business</key>
