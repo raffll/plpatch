@@ -1113,8 +1113,13 @@
 <record>
 	<_id>DIAL</_id>
 	<key>Cure Disease potion</key>
-	<val>mikstura wyleczenia z choroby</val>
+	<val>mikstura Wyleczenia z Choroby</val>
 </record>
+	<record>
+		<_id>DIAL</_id>
+		<key>mikstura wyleczenia z choroby</key>
+		<val>mikstura Wyleczenia z Choroby</val>
+	</record>
 <record>
 	<_id>DIAL</_id>
 	<key>Cyrodiil</key>
@@ -1293,8 +1298,13 @@
 <record>
 	<_id>DIAL</_id>
 	<key>Detect Creatures Potion</key>
-	<val>mikstura wykrywania istot</val>
+	<val>mikstura Wykrywania Istot</val>
 </record>
+	<record>
+		<_id>DIAL</_id>
+		<key>mikstura wykrywania istot</key>
+		<val>mikstura Wykrywania Istot</val>
+	</record>
 <record>
 	<_id>DIAL</_id>
 	<key>Dibella</key>
@@ -3884,8 +3894,13 @@
 <record>
 	<_id>DIAL</_id>
 	<key>Restore Health potions</key>
-	<val>mikstury przywrócenia zdrowia</val>
+	<val>mikstury Przywrócenia Zdrowia</val>
 </record>
+	<record>
+		<_id>DIAL</_id>
+		<key>mikstury przywrócenia zdrowia</key>
+		<val>mikstury Przywrócenia Zdrowia</val>
+	</record>
 <record>
 	<_id>DIAL</_id>
 	<key>Retort</key>
@@ -9123,6 +9138,7 @@
 	<_id>DIAL</_id>
 	<key>potion of Cure Common Disease</key>
 	<val>mikstura leczenia zwyk³ych chorób</val>
+	<!-- TODO: Mikstura Wyleczenia z Choroby -->
 </record>
 <record>
 	<_id>DIAL</_id>
