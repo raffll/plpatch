@@ -1,0 +1,8178 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<!-- 3.1 -->
+<record>
+	<_id>CELL</_id>
+	<key>Abaelun Mine</key>
+	<val>Kopalnia Abaelun</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Abaesen-Pulu Egg Mine</key>
+	<val>Kopalnia jaj Abaesen-Pulu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Abanabi</key>
+	<val>Abanabi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Abandoned Shipwreck, Cabin</key>
+	<val>Wrak okrętu, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Abandoned Shipwreck, Lower Level</key>
+	<val>Wrak okrętu, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Abandoned Shipwreck, Upper Level</key>
+	<val>Wrak okrętu, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Abebaal Egg Mine</key>
+	<val>Kopalnia jaj Abebaal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Abernanit</key>
+	<val>Abernanit</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Abinabi</key>
+	<val>Abinabi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Adanumuran</key>
+	<val>Adanumuran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Addadshashanammu, Shrine</key>
+	<val>Addadshashanammu, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Addamasartus</key>
+	<val>Addamasartus</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ahallaraddon Egg Mine</key>
+	<val>Kopalnia jaj Ahallaraddon</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ahanibi-Malmus Egg Mine</key>
+	<val>Kopalnia jaj Ahanibi-Malmus</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Aharasaplit Camp, Zallay's Yurt</key>
+	<val>Obóz Aharasaplit, jurta Zallaya</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Aharnabi</key>
+	<val>Aharnabi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Aharunartus</key>
+	<val>Aharunartus</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ahemmusa Camp</key>
+	<val>Obóz Ahemmusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ahemmusa Camp, Addammus's Yurt</key>
+	<val>Obóz Ahemmusa, jurta Addammusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ahemmusa Camp, Ashkhan's Yurt</key>
+	<val>Obóz Ahemmusa, jurta Popielnego Chana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ahemmusa Camp, Assamma-Idan's Yurt</key>
+	<val>Obóz Ahemmusa, jurta Assamma-Idana</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Obóz Ahemmusa, jutra Assamma-Idana</key>
+		<val>Obóz Ahemmusa, jurta Assamma-Idana</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ahemmusa Camp, Dutadalk's Yurt</key>
+	<val>Obóz Ahemmusa, jurta Dutadalka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ahemmusa Camp, Kausi's Yurt</key>
+	<val>Obóz Ahemmusa, jurta Kausiego</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ahemmusa Camp, Lanabi's Yurt</key>
+	<val>Obóz Ahemmusa, jurta Lanabi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ahemmusa Camp, Mamaea's Yurt</key>
+	<val>Obóz Ahemmusa, jurta Mamaei</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Obóz Ahemmusa, jurta Mamaey</key>
+		<val>Obóz Ahemmusa, jurta Mamaei</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ahemmusa Camp, Nummu's Yurt</key>
+	<val>Obóz Ahemmusa, jurta Nummu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ahemmusa Camp, Wise Woman's Yurt</key>
+	<val>Obóz Ahemmusa, jurta Wieszczki</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ahinipalit</key>
+	<val>Ahinipalit</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Aidanat Camp, Abassel's Yurt</key>
+	<val>Obóz Aidanat, jurta Abassela</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ainab</key>
+	<val>Ainab</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ainab, Shrine</key>
+	<val>Ainab, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ainat</key>
+	<val>Ainat</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Akimaes Grotto</key>
+	<val>Grota Akimaes</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Akimaes-Ilanipu Egg Mine</key>
+	<val>Kopalnia jaj Akimaes-Ilanipu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Akulakhan's Chamber</key>
+	<val>Komora Akula-chana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Alas Ancestral Tomb</key>
+	<val>Grobowiec rodziny Alas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Daedroth</key>
+	<val>Ald Daedroth</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Daedroth, Antechamber</key>
+	<val>Ald Daedroth, wejście</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Daedroth, Inner Shrine</key>
+	<val>Ald Daedroth, wewnętrzna kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Daedroth, Left Wing</key>
+	<val>Ald Daedroth, lewe skrzydło</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Daedroth, Outer Shrine</key>
+	<val>Ald Daedroth, zewnętrzna kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Daedroth, Right Wing</key>
+	<val>Ald Daedroth, prawe skrzydło</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Redaynia</key>
+	<val>Ald Redaynia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Redaynia, Tower</key>
+	<val>Ald Redaynia, wieża</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Sotha</key>
+	<val>Ald Sotha</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Sotha, Lower Level</key>
+	<val>Ald Sotha, dolny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Sotha, Shrine</key>
+	<val>Ald Sotha, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Sotha, Upper Level</key>
+	<val>Ald Sotha, górny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Velothi</key>
+	<val>Ald Velothi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Velothi, Fevila Bethrano's Shack</key>
+	<val>Ald Velothi, chata Fevili Bethrano</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Velothi, Ganus Lloryn's Shack</key>
+	<val>Ald Velothi, chata Ganusa Lloryna</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Velothi, Ienas Arvel's Shack</key>
+	<val>Ald Velothi, chata Ienas Arvel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Velothi, Lledsea Relas's Shack</key>
+	<val>Ald Velothi, chata Lledsei Relas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Velothi, Llerar Vinden's Shack</key>
+	<val>Ald Velothi, chata Llerara Vindena</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Velothi, Outpost</key>
+	<val>Ald Velothi, posterunek</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald Velothi, Posterunek</key>
+		<val>Ald Velothi, posterunek</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Velothi, Sathas Rivul's Shack</key>
+	<val>Ald Velothi, chata Sathasa Rivula</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald Velothi, Vireveri Darethran's Shack</key>
+	<val>Ald Velothi, chata Vireveri Darethran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn</key>
+	<val>Ald'ruhn</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Ald Skar Inn</key>
+	<val>Ald'ruhn, Szynk Ald Skar</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Arobar Guard Quarters</key>
+	<val>Ald'ruhn, kwatery strażników Arobara</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Arobar Manor Bedrooms</key>
+	<val>Ald'ruhn, sypialnie posiadłości Arobar</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald'ruhn, sypialnie Posiadłości Arobar</key>
+		<val>Ald'ruhn, sypialnie posiadłości Arobar</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Arobar Manor Entrance</key>
+	<val>Ald'ruhn, wejście do posiadłości Arobar</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald'ruhn, wejście do Posiadłości Arobar</key>
+		<val>Ald'ruhn, wejście do posiadłości Arobar</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Arobar Private Quarters</key>
+	<val>Ald'ruhn, prywatne komnaty Arobara</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald'ruhn, Prywatne komnaty Arobara</key>
+		<val>Ald'ruhn, prywatne komnaty Arobara</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Aryni Orethi's House</key>
+	<val>Ald'ruhn, dom Aryni Orethi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Bevene Releth: Clothier</key>
+	<val>Ald'ruhn, Bevene Releth: Krawcowa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Bivale Teneran: Clothier</key>
+	<val>Ald'ruhn, Bivale Teneran: Krawcowa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Boldrisa Andrano's House</key>
+	<val>Ald'ruhn, dom Boldrisy Andrano</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Braynas Hlervu's House</key>
+	<val>Ald'ruhn, dom Braynasa Hlervu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Cienne Sintieve: Alchemist</key>
+	<val>Ald'ruhn, Cienne Sintieve: Alchemik</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Codus Callonus: Bookseller</key>
+	<val>Ald'ruhn, Codus Callonus: Księgarz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Council Club</key>
+	<val>Ald'ruhn, Izba Rajców</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Council Hostel</key>
+	<val>Ald'ruhn, Dom Rady</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Dandera Selaro: Smith</key>
+	<val>Ald'ruhn, Dandera Selaro: Kowal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Daynes Redothril: Pawnbroker</key>
+	<val>Ald'ruhn, Daynes Redothril: Lombard</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Dravasa Andrethi's House</key>
+	<val>Ald'ruhn, dom Dravasy Andrethiego</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Drinar Varyon's House</key>
+	<val>Ald'ruhn, dom Drinara Varyona</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Galsa Gindu's House</key>
+	<val>Ald'ruhn, dom Galsy Gindu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Galthragoth's House</key>
+	<val>Ald'ruhn, dom Galthragotha</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Gildan's House</key>
+	<val>Ald'ruhn, dom Gildan</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Gindrala Hleran's House</key>
+	<val>Ald'ruhn, dom Gindrali Hleran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Goras Andrelo's House</key>
+	<val>Ald'ruhn, dom Gorasa Andrelo</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Guard Tower 1</key>
+	<val>Ald'ruhn, wieża strażnicza 1</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Guard Tower 2</key>
+	<val>Ald'ruhn, wieża strażnicza 2</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Guild of Fighters</key>
+	<val>Ald'ruhn, Gildia Wojowników</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald'ruhn, gildia wojowników</key>
+		<val>Ald'ruhn, Gildia Wojowników</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Guild of Mages</key>
+	<val>Ald'ruhn, Gildia Magów</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald'ruhn, gildia magów</key>
+		<val>Ald'ruhn, Gildia Magów</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Guls Llervu's House</key>
+	<val>Ald'ruhn, dom Gulsa Llervu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Hanarai Assutlanipal's House</key>
+	<val>Ald'ruhn, dom Hanarai Assutlanipal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Ienas Sarandas's House</key>
+	<val>Ald'ruhn, dom Ienasa Sarandasa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Ilmiril's House</key>
+	<val>Ald'ruhn, dom Ilmirila</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Llether Vari: Enchanter</key>
+	<val>Ald'ruhn, Llether Vari: Zaklinacz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Llethri Guard Quarters</key>
+	<val>Ald'ruhn, kwatery strażników Llethri</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Llethri Manor Bedrooms</key>
+	<val>Ald'ruhn, sypialnie posiadłości Llethri</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald'ruhn, sypialnie Posiadłości Llethri</key>
+		<val>Ald'ruhn, sypialnie posiadłości Llethri</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Llethri Manor Entrance</key>
+	<val>Ald'ruhn, wejście do posiadłości Llethri</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald'ruhn, wejście do Posiadłości Llethri</key>
+		<val>Ald'ruhn, wejście do posiadłości Llethri</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Llethri Private Quarters</key>
+	<val>Ald'ruhn, prywatne komnaty Llethri</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Malpenix Blonia: Trader</key>
+	<val>Ald'ruhn, Malpenix Blonia: Kupiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Manor District</key>
+	<val>Ald'ruhn, dzielnica willowa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Morag Tong Guildhall</key>
+	<val>Ald'ruhn, siedziba Morag Tong</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Morvayn Quarters</key>
+	<val>Ald'ruhn, kwatery Morvayn</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Pellecia Aurrus's House</key>
+	<val>Ald'ruhn, dom Pellecji Aurrus</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Practice Room</key>
+	<val>Ald'ruhn, sala treningowa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Ramoran Manor</key>
+	<val>Ald'ruhn, posiadłość Ramoran</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald'ruhn, Posiadłość Ramoran</key>
+		<val>Ald'ruhn, posiadłość Ramoran</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Ramoran Private Quarters</key>
+	<val>Ald'ruhn, prywatne komnaty Ramoran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Redoran Council Entrance</key>
+	<val>Ald'ruhn, wejście do siedziby Rady Rodu Redoran</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald'ruhn, wejście do Siedziby Rady Rodu Redoran</key>
+		<val>Ald'ruhn, wejście do siedziby Rady Rodu Redoran</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Redoran Council Hall</key>
+	<val>Ald'ruhn, siedziba Rady Rodu Redoran</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald'ruhn, Siedziba Rady Rodu Redoran</key>
+		<val>Ald'ruhn, siedziba Rady Rodu Redoran</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Sarethi Guard Quarters</key>
+	<val>Ald'ruhn, kwatery strażników Sarethiego</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Sarethi Manor</key>
+	<val>Ald'ruhn, posiadłość Sarethi</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald'ruhn, Posiadłość Sarethi</key>
+		<val>Ald'ruhn, posiadłość Sarethi</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Tauryon's House</key>
+	<val>Ald'ruhn, dom Tauryona</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Temple</key>
+	<val>Ald'ruhn, Świątynia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, The Rat In The Pot</key>
+	<val>Ald'ruhn, Pod Szczurem i Garnkiem</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Tiras Sadus: General Merchandise</key>
+	<val>Ald'ruhn, Tiras Sadus: Towary Wszelakie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Tuveso Beleth: Smith</key>
+	<val>Ald'ruhn, Tuveso Beleth: Kowal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Venim Manor Bedrooms</key>
+	<val>Ald'ruhn, sypialnie posiadłości Venim</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald'ruhn, sypialnie Posiadłości Venim</key>
+		<val>Ald'ruhn, sypialnie posiadłości Venim</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Venim Manor Entrance</key>
+	<val>Ald'ruhn, wejście do posiadłości Venim</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald'ruhn, wejście do Posiadłości Venim</key>
+		<val>Ald'ruhn, wejście do posiadłości Venim</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Venim Manor Guard Quarters</key>
+	<val>Ald'ruhn, kwatery strażników posiadłości Venim</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald'ruhn, kwatery strażników Posiadłości Venim</key>
+		<val>Ald'ruhn, kwatery strażników posiadłości Venim</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Venim Manor Private Quarters</key>
+	<val>Ald'ruhn, prywatne komnaty posiadłości Venim</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald'ruhn, prywatne komnaty Posiadłości Venim</key>
+		<val>Ald'ruhn, prywatne komnaty posiadłości Venim</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ald-ruhn, Venim Manor Right Wing</key>
+	<val>Ald'ruhn, prawe skrzydło posiadłości Venim</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ald'ruhn, prawe skrzydło Posiadłości Venim</key>
+		<val>Ald'ruhn, prawe skrzydło posiadłości Venim</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Aleft</key>
+	<val>Aleft</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Alen Ancestral Tomb</key>
+	<val>Grobowiec rodziny Alen</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Almurbalarammi, Shrine</key>
+	<val>Almurbalarammi, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Alof's Farmhouse</key>
+	<val>Farma Alofa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>An Abandoned Shack</key>
+	<val>Opuszczona szopa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ancient Shipwreck, Cabin</key>
+	<val>Pradawny wrak, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ancient Shipwreck, Lower Level</key>
+	<val>Pradawny wrak, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ancient Shipwreck, Upper Level</key>
+	<val>Pradawny wrak, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Andalen Ancestral Tomb</key>
+	<val>Grobowiec rodziny Andalen</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Andalor Ancestral Tomb</key>
+	<val>Grobowiec rodziny Andalor</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Andas Ancestral Tomb</key>
+	<val>Grobowiec rodziny Andas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Andasreth</key>
+	<val>Andasreth</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Andasreth, Lower Level</key>
+	<val>Andasreth, dolny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Andasreth, Propylon Chamber</key>
+	<val>Andasreth, portal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Andasreth, Upper Level</key>
+	<val>Andasreth, górny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Andavel Ancestral Tomb</key>
+	<val>Grobowiec rodziny Andavel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Andrano Ancestral Tomb</key>
+	<val>Grobowiec rodziny Andrano</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Andrethi Ancestral Tomb</key>
+	<val>Grobowiec rodziny Andrethi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Andules Ancestral Tomb</key>
+	<val>Grobowiec rodziny Andules</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ansi</key>
+	<val>Ansi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Aralen Ancestral Tomb</key>
+	<val>Grobowiec rodziny Aralen</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Aran Ancestral Tomb</key>
+	<val>Grobowiec rodziny Aran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arano Ancestral Tomb</key>
+	<val>Grobowiec rodziny Arano</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arano Plantation</key>
+	<val>Plantacja Arano</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arenim Ancestral Tomb</key>
+	<val>Grobowiec rodziny Arenim</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arethan Ancestral Tomb</key>
+	<val>Grobowiec rodziny Arethan</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arkngthand, Cells of Hollow Hand</key>
+	<val>Arkngthand, Komnaty Pustej Dłoni</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arkngthand, Deep Ore Passage</key>
+	<val>Arkngthand, Pasaż Pokładów Rudy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arkngthand, Hall of Centrifuge</key>
+	<val>Arkngthand, Sala Centryfugi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arkngthand, Heaven's Gallery</key>
+	<val>Arkngthand, Niebiańska Galeria</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arkngthand, Land's Blood Gallery</key>
+	<val>Arkngthand, Galeria Krwawej Ziemi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arkngthand, Weepingbell Hall</key>
+	<val>Arkngthand, Sala Płaczących Dzwonów</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arkngthunch-Sturdumz</key>
+	<val>Arkngthunch-Sturdumz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arrow, Cabin</key>
+	<val>Strzała, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arrow, Lower Level</key>
+	<val>Strzała, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arrow, Upper Level</key>
+	<val>Strzała, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arvel Manor</key>
+	<val>Posiadłość Arvel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arvel Manor, Slave Shack</key>
+	<val>Posiadłość Arvel, czworaki</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arvel Manor, Slavemaster's Shack</key>
+	<val>Posiadłość Arvel, chata nadzorcy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arvel Manor, Storage Shack</key>
+	<val>Posiadłość Arvel, składzik</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arvel Plantation</key>
+	<val>Plantacja Arvel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Aryon Ancestral Tomb</key>
+	<val>Grobowiec rodziny Aryon</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Arys Ancestral Tomb</key>
+	<val>Grobowiec rodziny Arys</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ascadian Isles Region</key>
+	<val>Wyspy Askadyjskie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Asha-Ahhe Egg Mine</key>
+	<val>Kopalnia jaj Asha-Ahhe</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashalmawia</key>
+	<val>Ashalmawia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashalmawia, Shrine</key>
+	<val>Ashalmawia, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashalmawia, Shrine, Sunken Vaults</key>
+	<val>Ashalmawia, kaplica: zatopione krypty</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ashalmawia, kaplica, zatopione krypty</key>
+		<val>Ashalmawia, kaplica: zatopione krypty</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashalmimilkala, Shrine</key>
+	<val>Ashalmimilkala, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashamanu Camp, Kausha's Yurt</key>
+	<val>Obóz Ashamanu, jurta Kaushy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashanammu</key>
+	<val>Ashanammu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashimanu Egg Mine</key>
+	<val>Kopalnia jaj Ashimanu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashimanu Egg Mine, Queen's Lair</key>
+	<val>Kopalnia jaj Ashimanu, leże królowej</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashinabi</key>
+	<val>Ashinabi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashinabi, Smuggler Den</key>
+	<val>Ashinabi, kryjówka przemytników</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashir-Dan</key>
+	<val>Ashir-Dan</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashirbadon</key>
+	<val>Ashirbadon</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashlands Region</key>
+	<val>Popielne Ziemie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashmelech</key>
+	<val>Ashmelech</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashunartes, Shrine</key>
+	<val>Ashunartes, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashurnabitashpi</key>
+	<val>Ashurnabitashpi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashurnibibi</key>
+	<val>Ashurnibibi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ashurnibibi, Shrine</key>
+	<val>Ashurnibibi, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Assalkushalit, Shrine</key>
+	<val>Assalkushalit, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Assarnatamat, Shrine</key>
+	<val>Assarnatamat, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Assarnud</key>
+	<val>Assarnud</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Assemanu</key>
+	<val>Assemanu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Assemanu, Shrine</key>
+	<val>Assemanu, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Assernerairan, Shrine</key>
+	<val>Assernerairan, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Assu</key>
+	<val>Assu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Assumanu</key>
+	<val>Assumanu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Assurdirapal, Inner Shrine</key>
+	<val>Assurdirapal, wewnętrzna kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Assurdirapal, Shrine</key>
+	<val>Assurdirapal, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Assurnabitashpi</key>
+	<val>Assurnabitashpi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Assurnabitashpi, Shrine</key>
+	<val>Assurnabitashpi, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Azura's Coast Region</key>
+	<val>Wybrzeże Azury</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bal Fell</key>
+	<val>Bal Fell</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bal Fell, East Wing</key>
+	<val>Bal Fell, wschodnie skrzydło</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bal Fell, Inner Shrine</key>
+	<val>Bal Fell, wewnętrzna kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bal Fell, Outer Shrine</key>
+	<val>Bal Fell, zewnętrzna kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bal Fell, West Wing</key>
+	<val>Bal Fell, zachodnie skrzydło</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bal Isra</key>
+	<val>Bal Isra</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bal Ur</key>
+	<val>Bal Ur</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bal Ur, Shrine</key>
+	<val>Bal Ur, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bal Ur, Underground</key>
+	<val>Bal Ur, podziemia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora</key>
+	<val>Balmora</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Astius Hanotepelus' House</key>
+	<val>Balmora, dom Astiusa Hanotepelusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Balyn Omarel's House</key>
+	<val>Balmora, dom Balyna Omarela</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Caius Cosades' House</key>
+	<val>Balmora, dom Caiusa Cosadesa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Clagius Clanler: Outfitter</key>
+	<val>Balmora, Clagius Clanler: Krawiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Council Club</key>
+	<val>Balmora, Izba Rajców</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Dorisa Darvel: Bookseller</key>
+	<val>Balmora, Dorisa Darvel: Księgarz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Dralasa Nithryon: Pawnbroker</key>
+	<val>Balmora, Dralasa Nithryon: Lombard</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Dralcea Arethi's House</key>
+	<val>Balmora, dom Dralsei Arethi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Dralosa Athren's House</key>
+	<val>Balmora, dom Dralosy Athren</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Drarayne Thelas' House</key>
+	<val>Balmora, dom Drarayne Thelas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Drarayne Thelas' Storage</key>
+	<val>Balmora, magazyn Drarayne Thelas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Dura gra-Bol's House</key>
+	<val>Balmora, dom Dury gra-Bol</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Eastern Guard Tower</key>
+	<val>Balmora, wschodnia wieża strażnicza</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Eight Plates</key>
+	<val>Balmora, Osiem Talerzy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Fast Eddie's House</key>
+	<val>Balmora, dom Szybkiego Eddiego</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Guild of Fighters</key>
+	<val>Balmora, Gildia Wojowników</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Balmora, gildia wojowników</key>
+		<val>Balmora, Gildia Wojowników</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Guild of Mages</key>
+	<val>Balmora, Gildia Magów</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Balmora, gildia magów</key>
+		<val>Balmora, Gildia Magów</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Hecerinde's House</key>
+	<val>Balmora, dom Hecerinde</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Hlaalo Manor</key>
+	<val>Balmora, posiadłość Hlaalo</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Balmora, Posiadłość Hlaalo</key>
+		<val>Balmora, posiadłość Hlaalo</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Hlaalu Council Manor</key>
+	<val>Balmora, siedziba Rady Rodu Hlaalu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Itan's House</key>
+	<val>Balmora, dom Itana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Karlirah's House</key>
+	<val>Balmora, dom Karlirah</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Lucky Lockup</key>
+	<val>Balmora, Szczęście Skazańca</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Meldor: Armorer</key>
+	<val>Balmora, Meldor: Płatnerz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Milie Hastien: Fine Clothier</key>
+	<val>Balmora, Milie Hastien: Mistrz Krawiecki</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Morag Tong Guild</key>
+	<val>Balmora, gildia Morag Tong</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Nalcarya of White Haven: Fine Alchemist</key>
+	<val>Balmora, Nalcarya z Białej Zatoki: Mistrzyni Alchemii</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Nerano Manor</key>
+	<val>Balmora, posiadłość Nerano</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Balmora, Posiadłość Nerano</key>
+		<val>Balmora, posiadłość Nerano</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Nine Toes' House</key>
+	<val>Balmora, dom Dziewięciu Palców</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Ra'Virr: Trader</key>
+	<val>Balmora, Ra'Virr: Kupiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Rarayn Radarys' House</key>
+	<val>Balmora, dom Rarayna Radarysa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Rithleen's House</key>
+	<val>Balmora, dom Rithleen</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, South Wall Cornerclub</key>
+	<val>Balmora, oberża Przy Południowym Murze</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Temple</key>
+	<val>Balmora, Świątynia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, The Razor Hole</key>
+	<val>Balmora, Pod Brzytwą</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Tsiya's House</key>
+	<val>Balmora, dom Tsiyi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Tyermaillin's House</key>
+	<val>Balmora, dom Tyermaillina</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Tyravel Manor</key>
+	<val>Balmora, posiadłość Tyravel</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Balmora, Posiadłość Tyravel</key>
+		<val>Balmora, posiadłość Tyravel</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Vorar Helas' House</key>
+	<val>Balmora, dom Vorara Helasa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Vori's House</key>
+	<val>Balmora, dom Vori</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Western Guard Tower North</key>
+	<val>Balmora, zachodnia strażnica, północ</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balmora, Western Guard Tower South</key>
+	<val>Balmora, zachodnia strażnica, południe</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Balur's Farmhouse</key>
+	<val>Farma Balura</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bamz-Amschend, Hall of Wails</key>
+	<val>Bamz-Amschend, Sala Płaczu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bamz-Amschend, Hall of Winds</key>
+	<val>Bamz-Amschend, Sala Wiatru</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bamz-Amschend, Hearthfire Hall</key>
+	<val>Bamz-Amschend, Sala Ognia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bamz-Amschend, King's Walk</key>
+	<val>Bamz-Amschend, Królewski Pasaż</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bamz-Amschend, Passage of Whispers</key>
+	<val>Bamz-Amschend, Korytarz Szeptów</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bamz-Amschend, Passage of the Walker</key>
+	<val>Bamz-Amschend, Korytarz Piechura</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bamz-Amschend, Radac's Forge</key>
+	<val>Bamz-Amschend, Kuźnia Radaca</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bamz-Amschend, Skybreak Gallery</key>
+	<val>Bamz-Amschend, Niebieska Galeria</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Band Egg Mine</key>
+	<val>Kopalnia jaj Band</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Baram Ancestral Tomb</key>
+	<val>Grobowiec rodziny Baram</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bensamsi</key>
+	<val>Bensamsi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bensiberib Camp, Odaishah's Yurt</key>
+	<val>Obóz Bensiberib, jurta Odaishaha</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Obóz Bensiberib, jutra Odai-szacha</key>
+		<val>Obóz Bensiberib, jurta Odaishaha</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Beran Ancestral Tomb</key>
+	<val>Grobowiec rodziny Beran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Berandas</key>
+	<val>Berandas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Berandas, Keep, Bottom Level</key>
+	<val>Berandas, twierdza, dolny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Berandas, Keep, Top Level</key>
+	<val>Berandas, twierdza, górny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Berandas, Propylon Chamber</key>
+	<val>Berandas, portal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Berandas, Underground</key>
+	<val>Berandas, podziemia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Beshara</key>
+	<val>Beshara</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Big Head's Shack</key>
+	<val>Chata Dużej Głowy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bitter Coast Region</key>
+	<val>Gorzkie Wybrzeże</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bthanchend</key>
+	<val>Bthanchend</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bthuand</key>
+	<val>Bthuand</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Bthungthumz</key>
+	<val>Bthungthumz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Buckmoth Legion Fort</key>
+	<val>Fort Jeleni</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Buckmoth Legion Fort, Interior</key>
+	<val>Fort Jeleni, wnętrze</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Buckmoth Legion Fort, Prison</key>
+	<val>Fort Jeleni, więzienie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Buckmoth Legion Fort, Towers</key>
+	<val>Fort Jeleni, wieże</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera</key>
+	<val>Caldera</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera Mine</key>
+	<val>Kopalnia Caldery</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Kopania Caldery</key>
+		<val>Kopalnia Caldery</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Bashuk gra-Bat's House</key>
+	<val>Caldera, dom Bashuk gra-Bat</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Canodia Felannus' House</key>
+	<val>Caldera, dom Canodii Felannus</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Dro'Shavir's House</key>
+	<val>Caldera, dom Dro'Shavira</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Elmussa Damori's House</key>
+	<val>Caldera, dom Elmussy Damori</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Falanaamo: Clothier</key>
+	<val>Caldera, Falanaamo: Krawiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Ghorak Manor</key>
+	<val>Caldera, posiadłość Ghorak</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Caldera, Posiadłość Ghorak</key>
+		<val>Caldera, posiadłość Ghorak</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Governor's Hall</key>
+	<val>Caldera, siedziba zarządcy</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Caldera, siedziba Zarządcy</key>
+		<val>Caldera, siedziba zarządcy</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Guild of Mages</key>
+	<val>Caldera, Gildia Magów</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Caldera, gildia magów</key>
+		<val>Caldera, Gildia Magów</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Hodlismod: Armorer</key>
+	<val>Caldera, Hodlismod: Płatnerz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Irgola: Pawnbroker</key>
+	<val>Caldera, Irgola: Lombard</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Keel-Raniur's House</key>
+	<val>Caldera, dom Keel-Raniur</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Mining Bunkhouse</key>
+	<val>Caldera, górnicze baraki</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Mining Company Office</key>
+	<val>Caldera, biuro Spółki Górniczej</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Caldera, biuro spółki górniczej</key>
+		<val>Caldera, biuro Spółki Górniczej</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Mining Guard Tower</key>
+	<val>Caldera, strażnica kopalni</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Nedhelas' House</key>
+	<val>Caldera, dom Nedhelasa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Caldera, dom Nedhelas</key>
+		<val>Caldera, dom Nedhelasa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, North Guard Towers</key>
+	<val>Caldera, północne wieże strażnicze</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Odairan Ashummi-Ammus' House</key>
+	<val>Caldera, dom Odairana Ashummi-Ammusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Shenk's Shovel</key>
+	<val>Caldera, Shenkowa Łopata</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Slave Shack One</key>
+	<val>Caldera, pierwszy barak niewolników</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Slave Shack Two</key>
+	<val>Caldera, drugi barak niewolników</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, South Guard Towers</key>
+	<val>Caldera, południowe wieże strażnicze</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Surane Leoriane's House</key>
+	<val>Caldera, dom Surane Leoriane</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Valvius Mevureius' House</key>
+	<val>Caldera, dom Valviusa Mevureiusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Caldera, Verick Gemain: Trader</key>
+	<val>Caldera, Verick Gemain: Kupiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Cavern of the Incarnate</key>
+	<val>Grota Wcielonych</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Character Stuff Wonderland</key>
+	<val>Kraina Cudów</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Chun-Ook, Cabin</key>
+	<val>Chun-Ook, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Chun-Ook, Lower Level</key>
+	<val>Chun-Ook, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Chun-Ook, Upper Level</key>
+	<val>Chun-Ook, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Clutter Warehouse - Everything Must Go!</key>
+	<val>Mydło i Powidło - wyprzedaż</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Corprusarium</key>
+	<val>Dom Spaczonych</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Corprusarium Bowels</key>
+	<val>Wnętrze Domu Spaczonych</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagon Fel</key>
+	<val>Dagon Fel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagon Fel, Andre Maul's Tower</key>
+	<val>Dagon Fel, wieża Andre Maula</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagon Fel, Anja Swift-Sailer's House</key>
+	<val>Dagon Fel, dom Anji Pomyślny Wiatr</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagon Fel, End of the World Renter Rooms</key>
+	<val>Dagon Fel, Na Końcu Świata - Wolne Pokoje</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagon Fel, Fanar Fork-Beard's House</key>
+	<val>Dagon Fel, dom Fanara Dwubrodego</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagon Fel, Fjorrod's House</key>
+	<val>Dagon Fel, dom Fjorroda</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagon Fel, Greidil Half-Troll's House</key>
+	<val>Dagon Fel, dom Greidila Półtrolla</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Dagon Fel, dom Greidila pół-Trolla</key>
+		<val>Dagon Fel, dom Greidila Półtrolla</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagon Fel, Heifnir: Trader</key>
+	<val>Dagon Fel, Heifnir: Kupiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagon Fel, Hurg's House</key>
+	<val>Dagon Fel, dom Hurga</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagon Fel, Itar the Gentle's House</key>
+	<val>Dagon Fel, dom Itara Łagodnego</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagon Fel, Mette's House</key>
+	<val>Dagon Fel, dom Mette</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagon Fel, Onmi Hard-mouth's House</key>
+	<val>Dagon Fel, dom Onmiego Pyskacza</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagon Fel, Sorkvild's Tower</key>
+	<val>Dagon Fel, wieża Sorkvilda</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagon Fel, The End of the World</key>
+	<val>Dagon Fel, Na Końcu Świata</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagon Fel, Vacant Tower</key>
+	<val>Dagon Fel, niezamieszkana wieża</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagon Fel, Watch Tower</key>
+	<val>Dagon Fel, wieża obserwacyjna</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagoth Ur</key>
+	<val>Dagoth Ur</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagoth Ur, Facility Cavern</key>
+	<val>Dagoth Ur, jaskinia użytkowa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagoth Ur, Inner Facility</key>
+	<val>Dagoth Ur, obszar wewnętrzny</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagoth Ur, Inner Tower</key>
+	<val>Dagoth Ur, wieża wewnętrzna</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagoth Ur, Lower Facility</key>
+	<val>Dagoth Ur, dolny obszar</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dagoth Ur, Outer Facility</key>
+	<val>Dagoth Ur, obszar zewnętrzny</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dareleth Ancestral Tomb</key>
+	<val>Grobowiec rodziny Dareleth</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Derelict Shipwreck, Cabin</key>
+	<val>Porzucony wrak, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Derelict Shipwreck, Lower Level</key>
+	<val>Porzucony wrak, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Derelict Shipwreck, Upper Level</key>
+	<val>Porzucony wrak, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Deserted Shipwreck, Cabin</key>
+	<val>Opuszczony wrak, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Deserted Shipwreck, Lower Level</key>
+	<val>Opuszczony wrak, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Deserted Shipwreck, Upper Level</key>
+	<val>Opuszczony wrak, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Desolate Shipwreck, Cabin</key>
+	<val>Wymarły wrak, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Desolate Shipwreck, Lower Level</key>
+	<val>Wymarły wrak, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Desolate Shipwreck, Upper Level</key>
+	<val>Wymarły wrak, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dirara's Farmhouse</key>
+	<val>Farma Dirary</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dissapla Mine</key>
+	<val>Kopalnia Dissapla</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dralas Ancestral Tomb</key>
+	<val>Grobowiec rodziny Dralas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Drath Ancestral Tomb</key>
+	<val>Grobowiec rodziny Drath</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Draugr Test</key>
+	<val>Draugr Test</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dreloth Ancestral Tomb</key>
+	<val>Grobowiec rodziny Dreloth</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dren Plantation</key>
+	<val>Plantacja Dren</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dren Plantation, Doves' Shack</key>
+	<val>Plantacja Dren, chata Dovesa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dren Plantation, Dren's Villa</key>
+	<val>Plantacja Dren, willa Drena</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dren Plantation, Guardhouse</key>
+	<val>Plantacja Dren, stróżówka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dren Plantation, Helvi's Shack</key>
+	<val>Plantacja Dren, chata Helvi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dren Plantation, Hlevala's Shack</key>
+	<val>Plantacja Dren, chata Hlevali</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dren Plantation, Rethan's Shack</key>
+	<val>Plantacja Dren, chata Rethana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dren Plantation, Shipping House</key>
+	<val>Plantacja Dren, spedycja</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dren Plantation, Storage Shack</key>
+	<val>Plantacja Dren, składowisko</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dren Plantation, Tower Shack</key>
+	<val>Plantacja Dren, składowisko w wieży</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dren Plantation, Verethi and Dralor</key>
+	<val>Plantacja Dren, Verethi i Dralor</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Drethan Ancestral Tomb</key>
+	<val>Grobowiec rodziny Drethan</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Drinith Ancestral Tomb</key>
+	<val>Grobowiec rodziny Drinith</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Drulene Falen's Hut</key>
+	<val>Chata Drulene Falen</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Druscashti, Lower Level</key>
+	<val>Druscashti, dolny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Druscashti, Upper Level</key>
+	<val>Druscashti, górny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dubdilla</key>
+	<val>Dubdilla</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dubdilla, Uncharted Caverns</key>
+	<val>Dubdilla, niezbadane jaskinie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dubdilla, Uncharted Caverns, Lower</key>
+	<val>Dubdilla, niezbadane jaskinie: dół</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Dubdilla, niezbadane jaskinie, dół</key>
+		<val>Dubdilla, niezbadane jaskinie: dół</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dulo Ancestral Tomb</key>
+	<val>Grobowiec rodziny Dulo</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dun-Ahhe</key>
+	<val>Dun-Ahhe</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dunirai Caverns</key>
+	<val>Jaskinie Dunirai</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Dushariran, Shrine</key>
+	<val>Dushariran, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ebernanit, Shrine</key>
+	<val>Ebernanit, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ebonheart</key>
+	<val>Ebonheart</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ebonheart, Argonian Mission</key>
+	<val>Ebonheart, Poselstwo Argoniańskie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ebonheart, East Empire Company Hall</key>
+	<val>Ebonheart, siedziba Kompanii Wschodniocesarskiej</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ebonheart, Siedziba Kompanii Wschodniocesarskiej</key>
+		<val>Ebonheart, siedziba Kompanii Wschodniocesarskiej</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ebonheart, East Empire North Warehouse</key>
+	<val>Ebonheart, północny magazyn Kompanii Wschodniocesarskiej</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ebonheart, północny magazyn wschodniocesarski</key>
+		<val>Ebonheart, północny magazyn Kompanii Wschodniocesarskiej</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ebonheart, East Empire South Warehouse</key>
+	<val>Ebonheart, południowy magazyn Kompanii Wschodniocesarskiej</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ebonheart, południowy magazyn wschodniocesarski</key>
+		<val>Ebonheart, południowy magazyn Kompanii Wschodniocesarskiej</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ebonheart, Grand Council Chambers</key>
+	<val>Ebonheart, komnaty Wielkiej Rady</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ebonheart, Komnaty Wielkiej Rady</key>
+		<val>Ebonheart, komnaty Wielkiej Rady</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ebonheart, Grand Council Chambers Tower</key>
+	<val>Ebonheart, wieża komnat Wielkiej Rady</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ebonheart, wieża Komnat Wielkiej Rady</key>
+		<val>Ebonheart, wieża komnat Wielkiej Rady</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ebonheart, Hawkmoth Legion Garrison</key>
+	<val>Ebonheart, garnizon Fortu Jastrzębiego</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ebonheart, garnizon Fortu Jastrzębi</key>
+		<val>Ebonheart, garnizon Fortu Jastrzębiego</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ebonheart, Hawkmoth Towers</key>
+	<val>Ebonheart, wieże Fortu Jastrzębiego</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ebonheart, wieże Fortu Jastrzębi</key>
+		<val>Ebonheart, wieże Fortu Jastrzębiego</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ebonheart, Imperial Chapels</key>
+	<val>Ebonheart, cesarskie kaplice</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ebonheart, Imperial Commission</key>
+	<val>Ebonheart, Komisja Cesarska</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ebonheart, Imperial Guard Garrison</key>
+	<val>Ebonheart, garnizon Straży Cesarskiej</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ebonheart, Six Fishes</key>
+	<val>Ebonheart, Sześć Ryb</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ebonheart, Skyrim Mission</key>
+	<val>Ebonheart, Poselstwo Skyrim</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ebonheart, Underground Caves</key>
+	<val>Ebonheart, podziemne jaskinie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Elanius Camp, Yapal's Yurt</key>
+	<val>Obóz Elanius, jurta Yapal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Elf-Skerring, Cabin</key>
+	<val>Elficka Strzała, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Elf-Skerring, Lower Level</key>
+	<val>Elficka Strzała, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Elf-Skerring, Upper Level</key>
+	<val>Elficka Strzała, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Elith-Pal Mine</key>
+	<val>Kopalnia Elith-Pal</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>kopalnia Elith-Pal</key>
+		<val>Kopalnia Elith-Pal</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Eluba-Addon Egg Mine</key>
+	<val>Kopalnia jaj Eluba-Addon</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Eluba-Addon Grotto</key>
+	<val>Grota Eluba-Addon</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Endusal, Kagrenac's study</key>
+	<val>Endusal, pracownia Kagrenaka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Erabenimsun Camp</key>
+	<val>Obóz Erabenimsun</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Erabenimsun Camp, Addut-Lamanu's Yurt</key>
+	<val>Obóz Erabenimsun, jurta Addut-Lamanu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Erabenimsun Camp, Ainab's Yurt</key>
+	<val>Obóz Erabenimsun, jurta Ainab</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Erabenimsun Camp, Ashkhan's Yurt</key>
+	<val>Obóz Erabenimsun, jurta Popielnego Chana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Erabenimsun Camp, Ashu-Ahhe's Yurt</key>
+	<val>Obóz Erabenimsun, jurta Ashu-Ahhe</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Erabenimsun Camp, Assemmus' Yurt</key>
+	<val>Obóz Erabenimsun, jurta Assemmusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Erabenimsun Camp, Han-Ammu's Yurt</key>
+	<val>Obóz Erabenimsun, jurta Han-Ammu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Erabenimsun Camp, Massarapal's Yurt</key>
+	<val>Obóz Erabenimsun, jurta Massarapala</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Erabenimsun Camp, Ranabi's Yurt</key>
+	<val>Obóz Erabenimsun, jurta Ranabiego</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Erabenimsun Camp, Salattanat's Yurt</key>
+	<val>Obóz Erabenimsun, jurta Salattanata</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Erabenimsun Camp, Wise Woman's Yurt</key>
+	<val>Obóz Erabenimsun, jurta Wieszczki</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Eretammus-Sennammu Egg Mine</key>
+	<val>Kopalnia jaj Eretammus-Sennammu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Esutanamus, Shrine</key>
+	<val>Esutanamus, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Fadathram Ancestral Tomb</key>
+	<val>Grobowiec rodziny Fadathram</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Fair Helas, Cabin</key>
+	<val>Piękna Helas, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Fair Helas, Lower Level</key>
+	<val>Piękna Helas, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Fair Helas, Upper Level</key>
+	<val>Piękna Helas, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Falas Ancestral Tomb</key>
+	<val>Grobowiec rodziny Falas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Falasmaryon</key>
+	<val>Falasmaryon</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Falasmaryon, Lower Level</key>
+	<val>Falasmaryon, dolny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Falasmaryon, Missun Akin's Hut</key>
+	<val>Falasmaryon, chata Missuna Akina</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Falasmaryon, Propylon Chamber</key>
+	<val>Falasmaryon, portal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Falasmaryon, Sewers</key>
+	<val>Falasmaryon, kanały</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Falasmaryon, Upper Level</key>
+	<val>Falasmaryon, górny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Falensarano</key>
+	<val>Falensarano</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Falensarano, Lower Level</key>
+	<val>Falensarano, dolny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Falensarano, Propylon Chamber</key>
+	<val>Falensarano, portal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Falensarano, Upper Level</key>
+	<val>Falensarano, górny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Falvillo's Endeavor, Cabin</key>
+	<val>Wyprawa Falvillo, kajuta</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Wyprawa Favillo, kajuta</key>
+		<val>Wyprawa Falvillo, kajuta</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Falvillo's Endeavor, Lower Level</key>
+	<val>Wyprawa Falvillo, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Falvilo's Endeavor, Upper Level</key>
+	<val>Wyprawa Falvillo, górny pokład</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Wyprawa Falvilo, górny pokład</key>
+		<val>Wyprawa Falvillo, górny pokład</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Favel Ancestral Tomb</key>
+	<val>Grobowiec rodziny Favel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Fields of Kummu</key>
+	<val>Pola Kummu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Forgotten Shipwreck</key>
+	<val>Zapomniany wrak okrętu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Forgotten Vaults of Anudnabia, Forge of Hilbongard</key>
+	<val>Zapomniane krypty Anudnabii, Kuźnia Hilbongarda</val>
+	<!-- ? -->
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Fort Frostmoth</key>
+	<val>Fort Śnieżny</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Fort Frostmoth, Armory</key>
+	<val>Fort Śnieżny, zbrojownia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Fort Frostmoth, Carius' Chambers</key>
+	<val>Fort Śnieżny, komnaty Cariusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Fort Frostmoth, Curtain Wall</key>
+	<val>Fort Śnieżny, mur kurtynowy</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Fort Śnieżny, kurtyna</key>
+		<val>Fort Śnieżny, mur kurtynowy</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Fort Frostmoth, General Quarters</key>
+	<val>Fort Śnieżny, kwatery ogólne</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Fort Frostmoth, General Quarters, Upper Level</key>
+	<val>Fort Śnieżny, kwatery ogólne, poziom górny</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Fort Frostmoth, Imperial Cult Shrine</key>
+	<val>Fort Śnieżny, kaplica Kultu Tamriel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Fort Frostmoth, Prison</key>
+	<val>Fort Śnieżny, areszt</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Fort Frostmoth, Supply Room</key>
+	<val>Fort Śnieżny, skład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Galom Daeus, Entry</key>
+	<val>Galom Daeus, wejście</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Galom Daeus, Observatory</key>
+	<val>Galom Daeus, obserwatorium</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ghostgate</key>
+	<val>Upiorna Brama</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ghostgate, Temple</key>
+	<val>Upiorna Brama, Świątynia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ghostgate, Tower of Dawn</key>
+	<val>Upiorna Brama, Wieża Świtu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ghostgate, Tower of Dawn Lower Level</key>
+	<val>Upiorna Brama, dolny poziom Wieży Świtu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ghostgate, Tower of Dusk</key>
+	<val>Upiorna Brama, Wieża Zmierzchu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ghostgate, Tower of Dusk Lower Level</key>
+	<val>Upiorna Brama, dolny poziom Wieży Zmierzchu</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Ghostgate, dolny poziom Wieży Zmierzchu</key>
+		<val>Upiorna Brama, dolny poziom Wieży Zmierzchu</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gimothran Ancestral Tomb</key>
+	<val>Grobowiec rodziny Gimothran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ginith Ancestral Tomb</key>
+	<val>Grobowiec rodziny Ginith</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnaar Mok</key>
+	<val>Gnaar Mok</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnaar Mok, Anglalos's Shack</key>
+	<val>Gnaar Mok, chata Anglalos</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnaar Mok, Arenim Manor</key>
+	<val>Gnaar Mok, posiadłość Arenim</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Gnaar Mok, Posiadłość Arenim</key>
+		<val>Gnaar Mok, posiadłość Arenim</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnaar Mok, Caryarel's Shack</key>
+	<val>Gnaar Mok, chata Caryarela</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnaar Mok, Druegh-jigger's Rest</key>
+	<val>Gnaar Mok, Łowca Dreughów</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnaar Mok, Jerian Dolbanitte's Shack</key>
+	<val>Gnaar Mok, chata Jeriana Dolbanitte</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnaar Mok, Mush-Mere's Shack</key>
+	<val>Gnaar Mok, chata Mush-Mere'a</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnaar Mok, Nadene Rotheran's Shack</key>
+	<val>Gnaar Mok, chata Nadene Rotheran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnaar Mok, Rostlogi's Shack</key>
+	<val>Gnaar Mok, chata Rostlogi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis</key>
+	<val>Gnisis</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Abelmawia Hut</key>
+	<val>Gnisis, chata Abelmawii</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Gnisis, Hata Abelmawii</key>
+		<val>Gnisis, chata Abelmawii</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Almu Cave Dwelling</key>
+	<val>Gnisis, jaskinia mieszkalna Almu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Arvs-Drelen</key>
+	<val>Gnisis, Arvs-Drelen</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Barracks</key>
+	<val>Gnisis, koszary</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Bethamez</key>
+	<val>Gnisis, Bethamez</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Dinadad Hut</key>
+	<val>Gnisis, chata Dinadad</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Eggmine</key>
+	<val>Gnisis, kopalnia jaj</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Fort Darius</key>
+	<val>Gnisis, Fort Darius</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Lasamsi Cave Dwelling</key>
+	<val>Gnisis, jaskinia mieszkalna Lasamsi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Lower Eggmine</key>
+	<val>Gnisis, dolny poziom kopalni jaj</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Madach Tradehouse</key>
+	<val>Gnisis, Dom Cechowy Madacha</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Man-llu Hut</key>
+	<val>Gnisis, chata Man-llu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Mantiti Cave Dwelling</key>
+	<val>Gnisis, jaskinia mieszkalna Mantiti</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Shand Hut</key>
+	<val>Gnisis, chata Shanda</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Shishara Hut</key>
+	<val>Gnisis, chata Shishary</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Tansumiran Cave Dwelling</key>
+	<val>Gnisis, jaskinia mieszkalna Tansumirana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Temple</key>
+	<val>Gnisis, Świątynia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Underground Stream</key>
+	<val>Gnisis, podziemna rzeka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Vabdas Hut</key>
+	<val>Gnisis, chata Vabdasa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gnisis, Yahaz Hut</key>
+	<val>Gnisis, chata Yahaz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Grazelands Region</key>
+	<val>Pastwiska</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Gro-Bagrat Plantation</key>
+	<val>Plantacja gro-Bagrat</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Plantacja Gro-Bagrat</key>
+		<val>Plantacja gro-Bagrat</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Grytewake, Cabin</key>
+	<val>Wielgi Kilwater, kajuta</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Grytewake, kajuta</key>
+		<val>Wielgi Kilwater, kajuta</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Grytewake, Lower Level</key>
+	<val>Wielgi Kilwater, dolny pokład</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Grytewake, dolny pokład</key>
+		<val>Wielgi Kilwater, dolny pokład</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Grytewake, Upper Level</key>
+	<val>Wielgi Kilwater, górny pokład</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Grytewake, górny pokład</key>
+		<val>Wielgi Kilwater, górny pokład</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Habinbaes</key>
+	<val>Habinbaes</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hairat-Vassamsi Egg Mine</key>
+	<val>Kopalnia jaj Hairat-Vassamsi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hairat-Vassamsi Egg Mine, Queen's Lair</key>
+	<val>Kopalnia jaj Hairat-Vassamsi, leże królowej</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Halit Mine</key>
+	<val>Kopalnia Halit</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hanud</key>
+	<val>Hanud</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hanud, Tower</key>
+	<val>Hanud, wieża</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hassour</key>
+	<val>Hassour</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hassour, Shrine</key>
+	<val>Hassour, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hawia Egg Mine</key>
+	<val>Kopalnia jaj Hawia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Helan Ancestral Tomb</key>
+	<val>Grobowiec rodziny Helan</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Helas Ancestral Tomb</key>
+	<val>Grobowiec rodziny Helas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Heleran Ancestral Tomb</key>
+	<val>Grobowiec rodziny Heleran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Heran Ancestral Tomb</key>
+	<val>Grobowiec rodziny Heran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hinnabi</key>
+	<val>Hinnabi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hla Oad</key>
+	<val>Hla Oad</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hla Oad, Fadila Balvel's House</key>
+	<val>Hla Oad, dom Fadile Balvel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hla Oad, Fatleg's Drop Off</key>
+	<val>Hla Oad, Mordownia Grubego</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hla Oad, Murudius Flaeus's House</key>
+	<val>Hla Oad, dom Murudiusa Flaeusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hla Oad, Okur's House</key>
+	<val>Hla Oad, dom Okur</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hla Oad, Relien Rirne's House</key>
+	<val>Hla Oad, dom Reliena Rirne</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hla Oad, Shurkul gro-Sharga's House</key>
+	<val>Hla Oad, dom Shurkula gro-Sharga</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hlaalu Ancestral Tomb</key>
+	<val>Grobowiec Rodu Hlaalu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hleran Ancestral Tomb</key>
+	<val>Grobowiec rodziny Hleran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hlervi Ancestral Tomb</key>
+	<val>Grobowiec rodziny Hlervi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hlervu Ancestral Tomb</key>
+	<val>Grobowiec rodziny Hlervu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hlormaren</key>
+	<val>Hlormaren</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hlormaren, Dome</key>
+	<val>Hlormaren, kopuła</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hlormaren, Keep, Bottom Level</key>
+	<val>Hlormaren, twierdza: najniższy poziom</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Hlormaren, twierdza, najniższy poziom</key>
+		<val>Hlormaren, twierdza: najniższy poziom</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hlormaren, Keep, Top Level</key>
+	<val>Hlormaren, twierdza: najwyższy poziom</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Hlormaren, twierdza, najwyższy poziom</key>
+		<val>Hlormaren, twierdza: najwyższy poziom</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hlormaren, Propylon Chamber</key>
+	<val>Hlormaren, portal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hlormaren, Sewers</key>
+	<val>Hlormaren, kanały</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Hlormaren, Underground</key>
+	<val>Hlormaren, podziemia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Holamayan</key>
+	<val>Holamayan</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Holamayan Monastery</key>
+	<val>Klasztor Holamayan</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ibar-Dad</key>
+	<val>Ibar-Dad</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ibishammus, Shrine</key>
+	<val>Ibishammus, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ienith Ancestral Tomb</key>
+	<val>Grobowiec rodziny Ienith</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ihinipalit, Shrine</key>
+	<val>Ihinipalit, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ilanipu Grotto</key>
+	<val>Grota Ilanipu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ilunibi, Blackened Heart</key>
+	<val>Ilunibi, Czarne Serce</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ilunibi, Carcass of the Saint</key>
+	<val>Ilunibi, Szczątki Świętego</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ilunibi, Marowak's Spine</key>
+	<val>Ilunibi, Grzbiet Marowaka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ilunibi, Soul's Rattle</key>
+	<val>Ilunibi, Potępienie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ilunibi, Tainted Marrow</key>
+	<val>Ilunibi, Skażony Szpik</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Imperial Prison Ship</key>
+	<val>Cesarski okręt więzienny</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Inanius Egg Mine</key>
+	<val>Kopalnia jaj Inanius</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Indalen Ancestral Tomb</key>
+	<val>Grobowiec rodziny Indalen</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Indaren Ancestral Tomb</key>
+	<val>Grobowiec rodziny Indaren</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Indarys Manor</key>
+	<val>Posiadłość Indarys</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Indarys Manor, Berendas' House</key>
+	<val>Posiadłość Indarys, dom Berendas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Indarys Manor, Manor Services</key>
+	<val>Posiadłość Indarys, służba</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Indarys Manor, Raram's House</key>
+	<val>Posiadłość Indarys, dom Rarama</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Indoranyon</key>
+	<val>Indoranyon</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Indoranyon, Propylon Chamber</key>
+	<val>Indoranyon, portal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kaushtababi Camp, Adibael's Yurt</key>
+	<val>Obóz Kaushtababi, jurta Adibaela</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Obóz Kaushtababi, Adibaela</key>
+		<val>Obóz Kaushtababi, jurta Adibaela</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kaushtarari, Shrine</key>
+	<val>Kaushtarari, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Khartag Point</key>
+	<val>Skała Khartaga</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Khuul</key>
+	<val>Khuul</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Khuul, Aldi's Shack</key>
+	<val>Khuul, chata Aldi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Khuul, Brurid's Shack</key>
+	<val>Khuul, chata Brurida</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Khuul, Endris Dilmyn's Shack</key>
+	<val>Khuul, chata Endrisa Dilmyna</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Khuul, Helga's Shack</key>
+	<val>Khuul, chata Helgi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Khuul, Miron Garer's Shack</key>
+	<val>Khuul, chata Mirona Garera</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Khuul, Nelmyne Andules's Shack</key>
+	<val>Khuul, chata Nelmyne Andules</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Khuul, Rivame Samandas's Shack</key>
+	<val>Khuul, chata Rivame Samandasa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Khuul, Svadstar's Shack</key>
+	<val>Khuul, chata Svadstara</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Khuul, Thongar's Tradehouse</key>
+	<val>Khuul, Dom Cechowy Thongara</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Koal Cave</key>
+	<val>Jaskinia Koal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Koal Cave Entrance</key>
+	<val>Wejście do jaskini Koal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kogoruhn</key>
+	<val>Kogoruhn</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kogoruhn, Bleeding Heart</key>
+	<val>Kogoruhn, Krwawiące Serce</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kogoruhn, Charma's Breath</key>
+	<val>Kogoruhn, Tchnienie Charmy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kogoruhn, Dome of Pollock's Eve</key>
+	<val>Kogoruhn, Kopuła Wigilii Pollocka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kogoruhn, Dome of Urso</key>
+	<val>Kogoruhn, Kopuła Urso</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kogoruhn, Hall of Maki</key>
+	<val>Kogoruhn, Sala Makiego</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kogoruhn, Hall of Phisto</key>
+	<val>Kogoruhn, Sala Phisto</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kogoruhn, Hall of the Watchful Touch</key>
+	<val>Kogoruhn, Sala Czułego Dotyku</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kogoruhn, Nabith Waterway</key>
+	<val>Kogoruhn, Akwedukt Nabitha</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kogoruhn, Temple of Fey</key>
+	<val>Kogoruhn, Świątynia Fey</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kogoruhn, Vault of Aerode</key>
+	<val>Kogoruhn, Krypta Aerode</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kora-Dur</key>
+	<val>Kora-Dur</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kudanat</key>
+	<val>Kudanat</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kumarahaz</key>
+	<val>Kumarahaz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kunirai</key>
+	<val>Kunirai</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Kushtashpi, Shrine</key>
+	<val>Kushtashpi, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Llando Ancestral Tomb</key>
+	<val>Grobowiec rodziny Llando</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Lleran Ancestral Tomb</key>
+	<val>Grobowiec rodziny Lleran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Llervu Ancestral Tomb</key>
+	<val>Grobowiec rodziny Llervu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Llirala's Shack</key>
+	<val>Chata Llirali</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Llovyn's Farmhouse</key>
+	<val>Farma Llovyna</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Lonely Shipwreck, Cabin</key>
+	<val>Samotny wrak, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Lonely Shipwreck, Lower Level</key>
+	<val>Samotny wrak, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Lonely Shipwreck, Upper Level</key>
+	<val>Samotny wrak, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Lonesome Shipwreck, Cabin</key>
+	<val>Zapomniany wrak, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Lonesome Shipwreck, Lower Level</key>
+	<val>Zapomniany wrak, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Lonesome Shipwreck, Upper Level</key>
+	<val>Zapomniany wrak, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Lost Shipwreck, Cabin</key>
+	<val>Zaginiony wrak, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Lost Shipwreck, Lower Level</key>
+	<val>Zaginiony wrak, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Lost Shipwreck, Upper Level</key>
+	<val>Zaginiony wrak, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan</key>
+	<val>Maar Gan</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan, Andus Tradehouse</key>
+	<val>Maar Gan, Dom Cechowy Andusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan, Assi Serimilk's Hut</key>
+	<val>Maar Gan, chata Assi Serimilk</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan, Assirari Zama-Rasour's Hut</key>
+	<val>Maar Gan, chata Assirari Zama-Rasour</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan, Garry's Hut</key>
+	<val>Maar Gan, chata Garry'ego</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan, Guard Tower 1</key>
+	<val>Maar Gan, pierwsza strażnica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan, Guard Tower 2</key>
+	<val>Maar Gan, druga strażnica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan, Guard Tower 3</key>
+	<val>Maar Gan, trzecia strażnica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan, Huleen's Hut</key>
+	<val>Maar Gan, chata Huleen</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan, Kind Erushara's Hut</key>
+	<val>Maar Gan, chata Dobrego Erushary</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan, Mabrelle Geles's Hut</key>
+	<val>Maar Gan, chata Mabrelle Geles</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan, Outpost</key>
+	<val>Maar Gan, posterunek</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan, Shilipuran Zama-Rasour's Hut</key>
+	<val>Maar Gan, chata Shilipurana Zama-Rasoura</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan, Shrine</key>
+	<val>Maar Gan, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan, Tashpi Ashibael's Hut</key>
+	<val>Maar Gan, chata Tashpi Ashibael</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan, Ulisamsi Shaddarnuran's Hut</key>
+	<val>Maar Gan, chata Ulisamsi Shaddarnuran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maar Gan, Yeherradad's Hut</key>
+	<val>Maar Gan, chata Yeherradada</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maba-Ilu</key>
+	<val>Maba-Ilu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mababi</key>
+	<val>Mababi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Madas Grotto</key>
+	<val>Grota Madas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Madas-Zebba Egg Mine</key>
+	<val>Kopalnia jaj Madas-Zebba</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maelkashishi, Shrine</key>
+	<val>Maelkashishi, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maelkashishi, Shrine, Forgotten Galleries</key>
+	<val>Maelkashishi, kaplica: Zapomniane Galerie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maelu Egg Mine</key>
+	<val>Kopalnia jaj Maelu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maesa-Shammus Egg Mine</key>
+	<val>Kopalnia jaj Maesa-Shammus</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Magas Volar</key>
+	<val>Magas Volar</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mallapi</key>
+	<val>Mallapi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Malmus Grotto</key>
+	<val>Grota Malmus</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mamaea, Sanctum of Awakening</key>
+	<val>Mamaea, Sanktuarium Przebudzenia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mamaea, Sanctum of Black Hope</key>
+	<val>Mamaea, Sanktuarium Czarnej Nadziei</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mamaea, Shrine of Pitted Dreams</key>
+	<val>Mamaea, Kaplica Pogrążonych Snów</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mamshar-Disamus Camp, Maesat's Yurt</key>
+	<val>Obóz Mamshar-Disamus, jurta Maesata</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Manat's Farmhouse</key>
+	<val>Farma Manata</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mannammu</key>
+	<val>Mannammu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maran-Adon</key>
+	<val>Maran-Adon</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Marandus</key>
+	<val>Marandus</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Marandus, Dome</key>
+	<val>Marandus, kopuła</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Marandus, Lower Level</key>
+	<val>Marandus, dolny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Marandus, Propylon Chamber</key>
+	<val>Marandus, portal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Marandus, Upper Level</key>
+	<val>Marandus, górny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Maren Ancestral Tomb</key>
+	<val>Grobowiec rodziny Maren</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mark's Script Testing Cell</key>
+	<val>Markowa komórka sprawdzająca skrypty</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mark's Vampire Test Cell</key>
+	<val>Testowa komórka Marka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Marvani Ancestral Tomb</key>
+	<val>Grobowiec rodziny Marvani</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Massahanud Camp, Sargon's Yurt</key>
+	<val>Obóz Massahanud, jurta Sargona</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Massama Cave</key>
+	<val>Jaskinia Massama</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Masseranit</key>
+	<val>Masseranit</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mat</key>
+	<val>Mat</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Matus-Akin Egg Mine</key>
+	<val>Kopalnia jaj Matus-Akin</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Matus-Akin Egg Mine, Queen's Lair</key>
+	<val>Kopalnia jaj Matus-Akin, leże królowej</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mausur Caverns</key>
+	<val>Jaskinie Mausur</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mawia</key>
+	<val>Mawia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mila-Nipal, Manat's Yurt</key>
+	<val>Mila-Nipal, jurta Manata</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Milk</key>
+	<val>Milk</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Minabi</key>
+	<val>Minabi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Minabi, Bandit Lair</key>
+	<val>Minabi, kryjówka bandytów</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ministry of Truth, Hall of Processing</key>
+	<val>Dekanat Prawdy, Komnata Przetwarzania</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ministry of Truth, Holding Cells</key>
+	<val>Dekanat Prawdy, Areszt</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ministry of Truth, Prison Keep</key>
+	<val>Dekanat Prawdy, Więzienie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Missamsi</key>
+	<val>Missamsi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Missir-Dadalit Egg Mine</key>
+	<val>Kopalnia jaj Missir-Dadalit</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Molag Amur Region</key>
+	<val>Molag Amur</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Molag Mar</key>
+	<val>Molag Mar</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Molag Mar, Armigers Stronghold</key>
+	<val>Molag Mar, Twierdza Gwardii</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Molag Mar, Canalworks</key>
+	<val>Molag Mar, kanały</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Molag Mar, Redoran Stronghold</key>
+	<val>Molag Mar, redorańska twierdza</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Molag Mar, Saetring the Nord: Smith</key>
+	<val>Molag Mar, Saetring Nord: Kowal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Molag Mar, St. Veloth's Hostel</key>
+	<val>Molag Mar, Przytułek św. Velotha</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Molag Mar, Przytułek Św. Velotha</key>
+		<val>Molag Mar, Przytułek św. Velotha</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Molag Mar, Temple</key>
+	<val>Molag Mar, Świątynia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Molag Mar, The Pilgrim's Rest</key>
+	<val>Molag Mar, Spoczynek Pielgrzyma</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Molag Mar, Underworks</key>
+	<val>Molag Mar, podziemia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Molag Mar, Vasesius Viciulus: Trader</key>
+	<val>Molag Mar, Vasesius Viciulus: Kupiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Molag Mar, Waistworks</key>
+	<val>Molag Mar, parter</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Moonmoth Legion Fort</key>
+	<val>Fort Księżycowy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Moonmoth Legion Fort, Interior</key>
+	<val>Fort Księżycowy, wnętrze</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Moonmoth Legion Fort, Prison Towers</key>
+	<val>Fort Księżycowy, wieże więzienne</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Morvayn Manor</key>
+	<val>Posiadłość Morvayn</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mount Assarnibibi</key>
+	<val>Góra Assarnibibi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mount Kand</key>
+	<val>Góra Kand</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mount Kand, Cavern</key>
+	<val>Góra Kand, jaskinia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold</key>
+	<val>Twierdza Smutku</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold Region</key>
+	<val>Region Twierdzy Smutku</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold Temple</key>
+	<val>Twierdza Smutku, Wielka Świątynia</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Wielka Świątynia</key>
+		<val>Twierdza Smutku, Wielka Świątynia</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold Temple: Basement</key>
+	<val>Twierdza Smutku, Wielka Świątynia: podziemia</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Wielka Świątynia, podziemia</key>
+		<val>Twierdza Smutku, Wielka Świątynia: podziemia</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold Temple: Hall of Ministry</key>
+	<val>Twierdza Smutku, Wielka Świątynia: sala rady</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Wielka Świątynia, sala rady</key>
+		<val>Twierdza Smutku, Wielka Świątynia: sala rady</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold Temple: High Chapel</key>
+	<val>Twierdza Smutku, Wielka Świątynia: główna kaplica</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Wielka Świątynia, główna kaplica</key>
+		<val>Twierdza Smutku, Wielka Świątynia: główna kaplica</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold Temple: Infirmary</key>
+	<val>Twierdza Smutku, Wielka Świątynia: lecznica</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Wielka Świątynia, lecznica</key>
+		<val>Twierdza Smutku, Wielka Świątynia: lecznica</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold Temple: Office of the Lord Archcanon</key>
+	<val>Twierdza Smutku, Wielka Świątynia: główne biuro</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Wielka Świątynia, główne biuro</key>
+		<val>Twierdza Smutku, Wielka Świątynia: główne biuro</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold Temple: Reception Area</key>
+	<val>Twierdza Smutku, Wielka Świątynia: przedsionek</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Wielka Świątynia, przedsionek</key>
+		<val>Twierdza Smutku, Wielka Świątynia: przedsionek</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Andoren Manor</key>
+	<val>Twierdza Smutku, posiadłość Andoren</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, posiadłość Andoren</key>
+		<val>Twierdza Smutku, posiadłość Andoren</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Armory</key>
+	<val>Twierdza Smutku, zbrojownia</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, zbrojownia</key>
+		<val>Twierdza Smutku, zbrojownia</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Bookseller</key>
+	<val>Twierdza Smutku, księgarnia</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, księgarnia</key>
+		<val>Twierdza Smutku, księgarnia</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Clothier</key>
+	<val>Twierdza Smutku, krawiec</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, krawiec</key>
+		<val>Twierdza Smutku, krawiec</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Craftsmen's Hall</key>
+	<val>Twierdza Smutku, Dom Rzemieślników</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Dom Rzemieślników</key>
+		<val>Twierdza Smutku, Dom Rzemieślników</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Geon Auline's House</key>
+	<val>Twierdza Smutku, dom Geona Auline</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, dom Geona Auline</key>
+		<val>Twierdza Smutku, dom Geona Auline</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Godsreach</key>
+	<val>Twierdza Smutku, Ręka Bogów</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Ręka Bogów</key>
+		<val>Twierdza Smutku, Ręka Bogów</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Great Bazaar</key>
+	<val>Twierdza Smutku, Wielki Bazar</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Wielki Bazar</key>
+		<val>Twierdza Smutku, Wielki Bazar</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Ignatius Flaccus' House</key>
+	<val>Twierdza Smutku, dom Ignatiusa Flaccusa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, dom I. Flaccusa</key>
+		<val>Twierdza Smutku, dom Ignatiusa Flaccusa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Llethan Manor</key>
+	<val>Twierdza Smutku, posiadłość Llethan</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, posiadłość Llethan</key>
+		<val>Twierdza Smutku, posiadłość Llethan</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Magic Shop</key>
+	<val>Twierdza Smutku, sklep magiczny</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, sklep magiczny</key>
+		<val>Twierdza Smutku, sklep magiczny</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Museum of Artifacts</key>
+	<val>Twierdza Smutku, Muzeum Artefaktów</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Muzeum Artefaktów</key>
+		<val>Twierdza Smutku, Muzeum Artefaktów</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Pawnbroker</key>
+	<val>Twierdza Smutku, lombard</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, lombard</key>
+		<val>Twierdza Smutku, lombard</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Plaza Brindisi Dorom</key>
+	<val>Twierdza Smutku, Plac Brindisi Dorom</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Pl. Brindisi Dorom</key>
+		<val>Twierdza Smutku, Plac Brindisi Dorom</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Royal Palace</key>
+	<val>Twierdza Smutku, Pałac Królewski</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Pałac Królewski</key>
+		<val>Twierdza Smutku, Pałac Królewski</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Royal Palace Throne Room</key>
+	<val>Twierdza Smutku, Pałac Królewski: sala tronowa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Pałac: Sala Tronowa</key>
+		<val>Twierdza Smutku, Pałac Królewski: sala tronowa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Royal Palace: Barenziah's Chambers</key>
+	<val>Twierdza Smutku, Pałac Królewski: komnaty Barenziah</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Pałac: komnaty Barenziah</key>
+		<val>Twierdza Smutku, Pałac Królewski: komnaty Barenziah</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Royal Palace: Basement</key>
+	<val>Twierdza Smutku, Pałac Królewski: podziemia</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Pałac: podziemia</key>
+		<val>Twierdza Smutku, Pałac Królewski: podziemia</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Royal Palace: Courtyard</key>
+	<val>Twierdza Smutku, Pałac Królewski: dziedziniec</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Pałac: dziedziniec</key>
+		<val>Twierdza Smutku, Pałac Królewski: dziedziniec</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Royal Palace: Guards' Quarters</key>
+	<val>Twierdza Smutku, Pałac Królewski: kwatery strażników</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Pałac: kwatery strażników</key>
+		<val>Twierdza Smutku, Pałac Królewski: kwatery strażników</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Royal Palace: Helseth's Chambers</key>
+	<val>Twierdza Smutku, Pałac Królewski: komnaty Helsetha</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Pałac: komnaty Helsetha</key>
+		<val>Twierdza Smutku, Pałac Królewski: komnaty Helsetha</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Royal Palace: Imperial Cult Services</key>
+	<val>Twierdza Smutku, Pałac Królewski: siedziba Kultu Tamriel</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Pałac: siedziba kultu Tamriel</key>
+		<val>Twierdza Smutku, Pałac Królewski: siedziba Kultu Tamriel</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Royal Palace: Jail</key>
+	<val>Twierdza Smutku, Pałac Królewski: więzienie</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Pałac: więzienie</key>
+		<val>Twierdza Smutku, Pałac Królewski: więzienie</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Royal Palace: Legion Depot</key>
+	<val>Twierdza Smutku, Pałac Królewski: magazyn Legionu</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Pałac: magazyn Legionu</key>
+		<val>Twierdza Smutku, Pałac Królewski: magazyn Legionu</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Royal Palace: Reception Area</key>
+	<val>Twierdza Smutku, Pałac Królewski: przedsionek</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Pałac: przedsionek</key>
+		<val>Twierdza Smutku, Pałac Królewski: przedsionek</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Sadri Manor</key>
+	<val>Twierdza Smutku, posiadłość Sadri</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Posiadłość Sadri</key>
+		<val>Twierdza Smutku, posiadłość Sadri</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Secret Office</key>
+	<val>Twierdza Smutku, tajne biuro</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Tajne Biuro</key>
+		<val>Twierdza Smutku, tajne biuro</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Temple Courtyard</key>
+	<val>Twierdza Smutku, dziedziniec świątyni</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, dziedziniec świątyni</key>
+		<val>Twierdza Smutku, dziedziniec świątyni</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, The Winged Guar</key>
+	<val>Twierdza Smutku, Skrzydlaty Guar</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, Skrzydlaty Guar</key>
+		<val>Twierdza Smutku, Skrzydlaty Guar</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Thendas Manor</key>
+	<val>Twierdza Smutku, posiadłość Thendas</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, posiadłość Thendas</key>
+		<val>Twierdza Smutku, posiadłość Thendas</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Trader</key>
+	<val>Twierdza Smutku, kupiec</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, kupiec</key>
+		<val>Twierdza Smutku, kupiec</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Vacant Manor</key>
+	<val>Twierdza Smutku, opuszczona posiadłość</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Opuszczona posiadłość</key>
+		<val>Twierdza Smutku, opuszczona posiadłość</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mournhold, Velas Manor</key>
+	<val>Twierdza Smutku, posiadłość Velas</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Tw. Smutku, posiadłość Velas</key>
+		<val>Twierdza Smutku, posiadłość Velas</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mudan Grotto</key>
+	<val>Grota Mudan</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mudan, Central Vault</key>
+	<val>Mudan, główna krypta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mudan, Lost Dwemer Checkpoint</key>
+	<val>Mudan, zaginiony posterunek Dwemerów</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Mudan, Zaginiony Posterunek Dwemerów</key>
+		<val>Mudan, zaginiony posterunek Dwemerów</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mudan, Right Tower</key>
+	<val>Mudan, prawa wieża</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mudan-Mul Egg Mine</key>
+	<val>Kopalnia jaj Mudan-Mul</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mul Grotto</key>
+	<val>Grota Mul</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mzahnch</key>
+	<val>Mzahnch</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mzahnch Lower Level</key>
+	<val>Mzahnch, dolny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mzahnch Ruin</key>
+	<val>Ruiny Mzahnch</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mzanchend</key>
+	<val>Mzanchend</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mzuleft</key>
+	<val>Mzuleft</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Mzuleft Ruin</key>
+	<val>Ruiny Mzuleft</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nallit</key>
+	<val>Nallit</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nammu</key>
+	<val>Nammu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nchardahrk</key>
+	<val>Nchardahrk</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nchardumz</key>
+	<val>Nchardumz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nchardumz Lower Level</key>
+	<val>Nchardumz, dolny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nchuleft</key>
+	<val>Nchuleft</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nchuleft Ruin</key>
+	<val>Ruiny Nchuleft</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nchuleftingth</key>
+	<val>Nchuleftingth</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nchuleftingth, Lower Levels</key>
+	<val>Nchuleftingth, dolne korytarze</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nchuleftingth, Test of Pattern</key>
+	<val>Nchuleftingth, Próba Wzorca</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nchuleftingth, Upper Levels</key>
+	<val>Nchuleftingth, górne korytarze</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nchurdamz</key>
+	<val>Nchurdamz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nchurdamz, Interior</key>
+	<val>Nchurdamz, wnętrze</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Neglected Shipwreck, Cabin</key>
+	<val>Zaniedbany wrak, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Neglected Shipwreck, Lower Level</key>
+	<val>Zaniedbany wrak, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Neglected Shipwreck, Upper Level</key>
+	<val>Zaniedbany wrak, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nelas Ancestral Tomb</key>
+	<val>Grobowiec rodziny Nelas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nerano Ancestral Tomb</key>
+	<val>Grobowiec rodziny Nerano</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nilera's Farmhouse</key>
+	<val>Farma Nilery</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nimawia Grotto</key>
+	<val>Grota Nimawia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nissintu</key>
+	<val>Nissintu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Norenen-dur</key>
+	<val>Norenen-dur</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Norenen-dur, Basilica of Divine Whispers</key>
+	<val>Norenen-dur, Bazylika Boskich Szeptów</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Norenen-dur, Citadel of Myn Dhrur</key>
+	<val>Norenen-dur, Cytadela Myn Dhrur</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Norenen-dur, The Grand Stair</key>
+	<val>Norenen-dur, Główne Schody</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Norenen-dur, The Teeth that Gnash</key>
+	<val>Norenen-dur, Kąsające Kły</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Norenen-dur, The Wailingdelve</key>
+	<val>Norenen-dur, Korytarz Płaczu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Norvayn Ancestral Tomb</key>
+	<val>Grobowiec rodziny Norvayn</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Nund</key>
+	<val>Nund</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Obscure Shipwreck, Cabin</key>
+	<val>Ponury wrak, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Obscure Shipwreck, Lower Level</key>
+	<val>Ponury wrak, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Obscure Shipwreck, Upper Level</key>
+	<val>Ponury wrak, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Odai Plateau</key>
+	<val>Płaskowyż Odai</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Odaishah</key>
+	<val>Odaishah</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Odibaal</key>
+	<val>Odibaal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Odirnamat</key>
+	<val>Odirnamat</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Odirniran</key>
+	<val>Odirniran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Odirniran, Tower</key>
+	<val>Odirniran, wieża</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Odrosal</key>
+	<val>Odrosal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Odrosal, Dwemer Training Academy</key>
+	<val>Odrosal, Akademia Dwemerów</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Odrosal, Tower</key>
+	<val>Odrosal, wieża</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Abandoned Crypt</key>
+	<val>Stara Tw. Sm., stara krypta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Abandoned Passageway</key>
+	<val>Stara Tw. Sm., stary korytarz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Armory Ruins</key>
+	<val>Stara Tw. Sm., ruiny zbrojowni</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Battlefield</key>
+	<val>Stara Tw. Sm., pobojowisko</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Bazaar Sewers</key>
+	<val>Stara Tw. Sm., kanały Bazaru</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: City Gate</key>
+	<val>Stara Tw. Sm., brama</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Forgotten Sewer</key>
+	<val>Stara Tw. Sm., stary kanał</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Gedna Relvel's Tomb</key>
+	<val>Stara Tw. Sm., grobowiec G. Relvel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Manor District</key>
+	<val>Stara Tw. Sm., część mieszkalna</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Moril Manor, Courtyard</key>
+	<val>Stara Tw. Sm., posiad. Moril: plac</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Moril Manor, East Building</key>
+	<val>Stara Tw. Sm., posiad. Moril: wschód</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Moril Manor, North Building</key>
+	<val>Stara Tw. Sm., posiad. Moril: północ</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Palace Sewers</key>
+	<val>Stara Tw. Sm., kanały Pałacu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Residential Ruins</key>
+	<val>Stara Tw. Sm., ruiny posiadłości</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Residential Sewers</key>
+	<val>Stara Tw. Sm., kanały posiadłości</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Tears of Amun-Shae</key>
+	<val>Stara Tw. Sm., Łzy Amun-Shae</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Temple Catacombs</key>
+	<val>Stara Tw. Sm., katakumby</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Temple Crypt</key>
+	<val>Stara Tw. Sm., świątynna krypta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Temple Gardens</key>
+	<val>Stara Tw. Sm., świątynne ogrody</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Temple Sewers</key>
+	<val>Stara Tw. Sm., kanały świątyni</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Temple Sewers East</key>
+	<val>Stara Tw. Sm., kanały św.: wschód</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Temple Sewers West</key>
+	<val>Stara Tw. Sm., kanały św.: zachód</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Temple Shrine</key>
+	<val>Stara Tw. Sm., świątynna kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Teran Hall</key>
+	<val>Stara Tw. Sm., Sala Teran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: Teran Hall, East Bldg</key>
+	<val>Stara Tw. Sm., Sala Teran, wschód</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Old Mournhold: West Sewers</key>
+	<val>Stara Tw. Sm., zachodnie kanały</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Omalen Ancestral Tomb</key>
+	<val>Grobowiec rodziny Omalen</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Omani Manor</key>
+	<val>Posiadłość Omani</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Omaren Ancestral Tomb</key>
+	<val>Grobowiec rodziny Omaren</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Onnissiralis, Shrine</key>
+	<val>Onnissiralis, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Orethi Ancestral Tomb</key>
+	<val>Grobowiec rodziny Orethi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Othrelas Ancestral Tomb</key>
+	<val>Grobowiec rodziny Othrelas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Palansour</key>
+	<val>Palansour</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Panabanit-Nimawia Egg Mine</key>
+	<val>Kopalnia jaj Panabanit-Nimawia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Panat</key>
+	<val>Panat</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Panud Egg Mine</key>
+	<val>Kopalnia jaj Panud</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad</key>
+	<val>Pelagiad</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad, Adanja's House</key>
+	<val>Pelagiad, dom Adanji</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad, Ahnassi's House</key>
+	<val>Pelagiad, dom Ahnassi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad, Dralas Gilu's House</key>
+	<val>Pelagiad, dom Dralasa Gilu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad, Erval's House</key>
+	<val>Pelagiad, dom Ervala</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad, Farusea Salas' House</key>
+	<val>Pelagiad, dom Farusei Salas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad, Fort Pelagiad</key>
+	<val>Pelagiad, Fort Pelagiad</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad, Guard Tower</key>
+	<val>Pelagiad, strażnica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad, Halfway Tavern</key>
+	<val>Pelagiad, gospoda W Pół Drogi</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Pelagiad, Gospoda W Pół Drogi</key>
+		<val>Pelagiad, gospoda W Pół Drogi</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad, Ignatius Flaccus' House</key>
+	<val>Pelagiad, dom Ignatiusa Flaccusa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Pelagiad, dom I. Flaccusa</key>
+		<val>Pelagiad, dom Ignatiusa Flaccusa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad, Junal-lei's House</key>
+	<val>Pelagiad, dom Junala-lei</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad, Madres Navur's House</key>
+	<val>Pelagiad, dom Madresa Navura</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad, Mebestien Ence: Trader</key>
+	<val>Pelagiad, Mebestien Ence: Kupiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad, Murberius Harmevus' House</key>
+	<val>Pelagiad, dom Murberiusa Harmevusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad, North Wall</key>
+	<val>Pelagiad, północny mur</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad, South Wall</key>
+	<val>Pelagiad, południowy mur</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pelagiad, Uulernil : Armorer</key>
+	<val>Pelagiad, Uulernil: Płatnerz</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Pelagiad, Uulernil : Płatnerz</key>
+		<val>Pelagiad, Uulernil: Płatnerz</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Piernette's Farmhouse</key>
+	<val>Farma Piernette</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pinsun</key>
+	<val>Pinsun</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Piran</key>
+	<val>Piran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Prelude Shipwreck, Cabin</key>
+	<val>Wrak Preludium, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Prelude Shipwreck, Lower Level</key>
+	<val>Wrak Preludium, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Prelude Shipwreck, Upper Level</key>
+	<val>Wrak Preludium, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pudai Egg Mine</key>
+	<val>Kopalnia jaj Pudai</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pudai Egg Mine, Queen's Lair</key>
+	<val>Kopalnia jaj Pudai, leże królowej</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Pulk</key>
+	<val>Pulk</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Punabi</key>
+	<val>Punabi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Punammu</key>
+	<val>Punammu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Punsabanit</key>
+	<val>Punsabanit</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ramimilk, Shrine</key>
+	<val>Ramimilk, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Randas Ancestral Tomb</key>
+	<val>Grobowiec rodziny Randas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ravel Ancestral Tomb</key>
+	<val>Grobowiec rodziny Ravel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock</key>
+	<val>Krucza Skała</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Abandoned Mine Shaft</key>
+	<val>Krucza Skała, opuszczony szyb kopalniany</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Afer Flaccus' House</key>
+	<val>Krucza Skała, dom Afera Flaccusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Bar</key>
+	<val>Krucza Skała, bar</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Factor's Estate</key>
+	<val>Krucza Skała, posiadłość Syndyka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Garnas Uvalen's House</key>
+	<val>Krucza Skała, dom Garnasa Uvalena</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Gidar Verothan's House</key>
+	<val>Krucza Skała, dom Gidara Verothana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Gratian Caerellius' House</key>
+	<val>Krucza Skała, dom Gratiana Caerelliusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Mine</key>
+	<val>Krucza Skała, kopalnia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Mine Entrance</key>
+	<val>Krucza Skała, wejście do kopalni</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, North Storehouse</key>
+	<val>Krucza Skała, północny magazyn</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Sabinus Oranius' House</key>
+	<val>Krucza Skała, dom Sabinusa Oraniusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Sados Relothan's House</key>
+	<val>Krucza Skała, dom Sadosa Relothana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Seler Favelnim's House</key>
+	<val>Krucza Skała, dom Selera Favelnima</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Smith</key>
+	<val>Krucza Skała, kuźnia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, South Storehouse</key>
+	<val>Krucza Skała, południowy magazyn</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, SouthEast Storehouse</key>
+	<val>Krucza Skała, południowo-wschodni magazyn</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Supply Ship</key>
+	<val>Krucza Skała, okręt dostawczy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Trader</key>
+	<val>Krucza Skała, kupiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Uryn Maren's House</key>
+	<val>Krucza Skała, dom Uryna Marena</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raven Rock, Vacant House</key>
+	<val>Krucza Skała, puste domostwo</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Raviro Ancestral Tomb</key>
+	<val>Grobowiec rodziny Raviro</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Rayna Drolan's Shack</key>
+	<val>Chata Rayny Drolan</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Red Mountain Region</key>
+	<val>Czerwona Góra</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Redas Ancestral Tomb</key>
+	<val>Grobowiec rodziny Redas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Redoran interior</key>
+	<val>Redorańskie wnętrze</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Redoran interior2</key>
+	<val>Redorańskie wnętrze 2</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Releth Ancestral Tomb</key>
+	<val>Grobowiec rodziny Releth</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Reloth Ancestral Tomb</key>
+	<val>Grobowiec rodziny Reloth</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Remote Shipwreck, Cabin</key>
+	<val>Odległy wrak, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Remote Shipwreck, Lower Level</key>
+	<val>Odległy wrak, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Remote Shipwreck, Upper Level</key>
+	<val>Odległy wrak, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Rethan Manor</key>
+	<val>Posiadłość Rethan</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Rethan Manor, Berendas' House</key>
+	<val>Posiadłość Rethan, dom Berendas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Rethan Manor, Drelas' House</key>
+	<val>Posiadłość Rethan, dom Drelasa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Rethan Manor, Gols' House</key>
+	<val>Posiadłość Rethan, dom Golsa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Rethan Manor, dom Golsa</key>
+		<val>Posiadłość Rethan, dom Golsa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Rethan Manor, Tures' House</key>
+	<val>Posiadłość Rethan, dom Turesa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Rethan Manor, dom Turesa</key>
+		<val>Posiadłość Rethan, dom Turesa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Rethandus Ancestral Tomb</key>
+	<val>Grobowiec rodziny Rethandus</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Rissun</key>
+	<val>Rissun</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Rothan Ancestral Tomb</key>
+	<val>Grobowiec rodziny Rothan</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Rotheran</key>
+	<val>Rotheran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Rotheran, Arena</key>
+	<val>Rotheran, arena</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Rotheran, Communal Hut</key>
+	<val>Rotheran, wspólny dom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Rotheran, Propylon Chamber</key>
+	<val>Rotheran, portal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora</key>
+	<val>Sadrith Mora</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Anis Seloth: Alchemist</key>
+	<val>Sadrith Mora, Anis Seloth: Alchemik</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Balen Vendu: Monk</key>
+	<val>Sadrith Mora, Balen Vendu: Mniszka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Dirty Muriel's Cornerclub</key>
+	<val>Sadrith Mora, Oberża Sprośnej Muriel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Fara's Hole in the Wall</key>
+	<val>Sadrith Mora, Dziura w Murze</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Gateway Inn</key>
+	<val>Sadrith Mora, Brama</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Gateway Inn: North Wing</key>
+	<val>Sadrith Mora, Brama: północne skrzydło</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Gateway Inn: South Wing</key>
+	<val>Sadrith Mora, Brama: południowe skrzydło</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Gateway Inn: West Wing</key>
+	<val>Sadrith Mora, Brama: zachodnie skrzydło</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Hleras Gidren's House</key>
+	<val>Sadrith Mora, dom Hlerasa Gidrena</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Llaalam Madalas: Mage</key>
+	<val>Sadrith Mora, Llaalam Madalas: Mag</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Madran Ulvel's House</key>
+	<val>Sadrith Mora, dom Madrana Ulvela</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Meluria Seleth's House</key>
+	<val>Sadrith Mora, dom Melurii Seleth</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Milara Vedran's House</key>
+	<val>Sadrith Mora, dom Milary Vedran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Morag Tong Guild</key>
+	<val>Sadrith Mora, gildia Morag Tong</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Nevrila Areloth's House</key>
+	<val>Sadrith Mora, dom Nevrili Areloth</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Nirasa Aren's House</key>
+	<val>Sadrith Mora, dom Nirasy Aren</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Pierlette Rostorard: Apothecary</key>
+	<val>Sadrith Mora, Pierlette Rostorard: Aptekarka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Rolis Garvon's House</key>
+	<val>Sadrith Mora, dom Rolisa Garvona</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Tel Naga General Quarters</key>
+	<val>Sadrith Mora, Tel Naga: kwatery</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Sadrith Mora, Tel Naga: Kwatery</key>
+		<val>Sadrith Mora, Tel Naga: kwatery</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Tel Naga Great Hall</key>
+	<val>Sadrith Mora, Tel Naga: wielka sala</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Sadrith Mora, Tel Naga: Wielka Sala</key>
+		<val>Sadrith Mora, Tel Naga: wielka sala</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Tel Naga Upper Hall</key>
+	<val>Sadrith Mora, Tel Naga: górna sala</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Sadrith Mora, Tel Naga: Górna Sala</key>
+		<val>Sadrith Mora, Tel Naga: górna sala</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Tel Naga Upper Tower</key>
+	<val>Sadrith Mora, Tel Naga: górna wieża</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Sadrith Mora, Tel Naga: Górna Wieża</key>
+		<val>Sadrith Mora, Tel Naga: górna wieża</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Telvanni Council House</key>
+	<val>Sadrith Mora, siedziba Rady Rodu Telvanni</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Sadrith Mora, Siedziba Rady Rodu Telvanni</key>
+		<val>Sadrith Mora, siedziba Rady Rodu Telvanni</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Telvanni Council House, Chambers</key>
+	<val>Sadrith Mora, komnaty Rady Telvanni</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Telvanni Council House, Entry</key>
+	<val>Sadrith Mora, siedziba Rady Rodu Telvanni: wejście</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Sadrith Mora, Siedziba Rady Rodu Telvanni: wejście</key>
+		<val>Sadrith Mora, siedziba Rady Rodu Telvanni: wejście</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Telvanni Council House, Hermitage</key>
+	<val>Sadrith Mora, siedziba Rady Rodu Telvanni: samotnia</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Sadrith Mora, Siedziba Rady Rodu Telvanni: samotnia</key>
+		<val>Sadrith Mora, siedziba Rady Rodu Telvanni: samotnia</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Thervul Serethi: Healer</key>
+	<val>Sadrith Mora, Thervul Sarethi: Uzdrowiciel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Trendrus Dral's House</key>
+	<val>Sadrith Mora, dom Trendrusa Drala</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Urtisa Romayn's House</key>
+	<val>Sadrith Mora, dom Urtisy Romayn</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Urtiso Faryon: Sorcerer</key>
+	<val>Sadrith Mora, Urtiso Faryon: Czarownica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Vaden Belas' House</key>
+	<val>Sadrith Mora, dom Vadena Belasa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Volmyni Dral's House</key>
+	<val>Sadrith Mora, dom Volmyni Dral</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Wolverine Hall</key>
+	<val>Sadrith Mora, Dom Rosomaka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Wolverine Hall: Fighter's Guild</key>
+	<val>Sadrith Mora, Dom Rosomaka: Gildia Wojowników</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Sadrith Mora, Dom Rosomaka: gildia wojowników</key>
+		<val>Sadrith Mora, Dom Rosomaka: Gildia Wojowników</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Wolverine Hall: Imperial Shrine</key>
+	<val>Sadrith Mora, Dom Rosomaka: cesarska kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadrith Mora, Wolverine Hall: Mage's Guild</key>
+	<val>Sadrith Mora, Dom Rosomaka: Gildia Magów</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Sadrith Mora, Dom Rosomaka: gildia magów</key>
+		<val>Sadrith Mora, Dom Rosomaka: Gildia Magów</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sadryon Ancestral Tomb</key>
+	<val>Grobowiec rodziny Sadryon</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Salit Camp, Zalit's Yurt</key>
+	<val>Obóz Salit, jurta Zalita</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Salit Camp, Zelay's Yurt</key>
+	<val>Obóz Salit, jurta Zelaya</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Salmantu</key>
+	<val>Salmantu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Salmantu, Shrine</key>
+	<val>Salmantu, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Salothan Ancestral Tomb</key>
+	<val>Grobowiec rodziny Salothan</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Salothran Ancestral Tomb</key>
+	<val>Grobowiec rodziny Salothran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Salvel Ancestral Tomb</key>
+	<val>Grobowiec rodziny Salvel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Samarys Ancestral Tomb</key>
+	<val>Grobowiec rodziny Samarys</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sanabi</key>
+	<val>Sanabi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sanctus Shrine</key>
+	<val>Kaplica Świętego</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sandas Ancestral Tomb</key>
+	<val>Grobowiec rodziny Sandas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sandus Ancestral Tomb</key>
+	<val>Grobowiec rodziny Sandus</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sanit</key>
+	<val>Sanit</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sanit, Shrine</key>
+	<val>Sanit, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sanni</key>
+	<val>Sanni</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sarano Ancestral Tomb</key>
+	<val>Grobowiec rodziny Sarano</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Saren Ancestral Tomb</key>
+	<val>Grobowiec rodziny Saren</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sarethi Ancestral Tomb</key>
+	<val>Grobowiec rodziny Sarethi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sargon</key>
+	<val>Sargon</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sarimisun-Assa Egg Mine</key>
+	<val>Kopalnia jaj Sarimisun-Assa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sarimisun-Assa Egg Mine, Queen's Lair</key>
+	<val>Kopalnia jaj Sarimisun-Assa, leże królowej</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sarys Ancestral Tomb</key>
+	<val>Grobowiec rodziny Sarys</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Saturan</key>
+	<val>Saturan</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Savel Ancestral Tomb</key>
+	<val>Grobowiec rodziny Savel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Senim Ancestral Tomb</key>
+	<val>Grobowiec rodziny Senim</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sennananit</key>
+	<val>Sennananit</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seran Ancestral Tomb</key>
+	<val>Grobowiec rodziny Seran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Serano Ancestral Tomb</key>
+	<val>Grobowiec rodziny Serano</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sethan Ancestral Tomb</key>
+	<val>Grobowiec rodziny Sethan</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Setus Egg Mine</key>
+	<val>Kopalnia jaj Setus</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen</key>
+	<val>Seyda Neen</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen, Arrille's Tradehouse</key>
+	<val>Seyda Neen, Dom Cechowy Arrille'a</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen, Census and Excise Office</key>
+	<val>Seyda Neen, Biuro Spisów i Opodatkowania</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen, Census and Excise Warehouse</key>
+	<val>Seyda Neen, magazyn Biura Spisów</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen, Draren Thiralas' House</key>
+	<val>Seyda Neen, dom Drarena Thiralasa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen, Eldafire's House</key>
+	<val>Seyda Neen, dom Eldafire</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen, Erene Llenim's Shack</key>
+	<val>Seyda Neen, chata Erene Llenima</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen, Fargoth's House</key>
+	<val>Seyda Neen, dom Fargotha</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen, Fine-Mouth's Shack</key>
+	<val>Seyda Neen, chata Gładkiej-Twarzy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen, Foryn Gilnith's Shack</key>
+	<val>Seyda Neen, chata Foryna Gilnitha</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen, Indrele Rathryon's Shack</key>
+	<val>Seyda Neen, chata Indrele Rathryon</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen, Lighthouse</key>
+	<val>Seyda Neen, latarnia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen, Terurise Girvayne's House</key>
+	<val>Seyda Neen, dom Terurise Girvayne</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Seyda Neen, Vodunius Nuccius' House</key>
+	<val>Seyda Neen, dom Voduniusa Nucciusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sha-Adnius</key>
+	<val>Sha-Adnius</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shal</key>
+	<val>Shal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shallit</key>
+	<val>Shallit</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shara</key>
+	<val>Shara</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sharapli</key>
+	<val>Sharapli</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shashmanu Camp, Anit's Yurt</key>
+	<val>Obóz Shashmanu, jurta Anita</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shashpilamat</key>
+	<val>Shashpilamat</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shashpilamat, Shrine</key>
+	<val>Shashpilamat, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shashurari Camp, Zennammu's Yurt</key>
+	<val>Obóz Shashurari, jurta Zennammu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sheogorad Region</key>
+	<val>Sheogorad</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shishara</key>
+	<val>Shishara</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shishi</key>
+	<val>Shishi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shrine of Azura</key>
+	<val>Kaplica Azury</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shulk Egg Mine</key>
+	<val>Kopalnia jaj Shulk</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shulk Egg Mine, Mining Camp</key>
+	<val>Kopalnia jaj Shulk, obóz górników</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shulk Egg Mine, Queen's Lair</key>
+	<val>Kopalnia jaj Shulk, leże królowej</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shunned Shipwreck, Cabin</key>
+	<val>Niechciany wrak, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shunned Shipwreck, Lower Level</key>
+	<val>Niechciany wrak, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shunned Shipwreck, Upper Level</key>
+	<val>Niechciany wrak, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shurdan-Raplay Egg Mine</key>
+	<val>Kopalnia jaj Shurdan-Raplay</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shurinbaal</key>
+	<val>Shurinbaal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shushan</key>
+	<val>Shushan</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Shushishi</key>
+	<val>Shushishi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sinamusa Egg Mine</key>
+	<val>Kopalnia jaj Sinamusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sinarralit Egg Mine</key>
+	<val>Kopalnia jaj Sinarralit</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sinsibadon</key>
+	<val>Sinsibadon</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sjorvar Horse-Mouth's House</key>
+	<val>Dom Sjorvara Końskiej Twarzy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Skaal Village</key>
+	<val>Wioska Skaal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Skaal Village, Bronrod the Roarer's House</key>
+	<val>Wioska Skaal, dom Bronroda Wrzaskuna</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Skaal Village, Erna the Quiet's House</key>
+	<val>Wioska Skaal, chata Erny Cichej</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Skaal Village, Ice-Mane's Hut</key>
+	<val>Wioska Skaal, chata Lodowych Grzyw</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Skaal Village, Ingmar's House</key>
+	<val>Wioska Skaal, chata Ingmara</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Skaal Village, Lassnr's House</key>
+	<val>Wioska Skaal, chata Lassnra</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Skaal Village, Rigmor's Hut</key>
+	<val>Wioska Skaal, chata Rigmora</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Skaal Village, Shaman's Hut</key>
+	<val>Wioska Skaal, chata szamana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Skaal Village, The Blodskaal's House</key>
+	<val>Wioska Skaal, dom Blodskaala</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Skaal Village, The Greathall</key>
+	<val>Wioska Skaal, Wielki Hall</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Skaal village, Snedbrir the Smith</key>
+	<val>Wioska Skaal, kuźnia Snedbrira</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Small Farmhouse</key>
+	<val>Niewielka farma</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sobitbael Camp, Mal's Yurt</key>
+	<val>Obóz Sobitbael, jurta Mala</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim</key>
+	<val>Solstheim</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Aesliip's Lair</key>
+	<val>Solstheim, nora Aesliipa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Aesliip's Lair, Caverns</key>
+	<val>Solstheim, nora Aesliipa: jaskinie</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, nora Aesliipa, jaskinie</key>
+		<val>Solstheim, nora Aesliipa: jaskinie</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Altar of Thrond</key>
+	<val>Solstheim, Ołtarz Thronda</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Benkongerike</key>
+	<val>Solstheim, Benkongerike</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Bjorn</key>
+	<val>Solstheim, Bjorn</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Bloodskal Barrow</key>
+	<val>Solstheim, kurhan Blodskaala</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Kurhan Blodskaala</key>
+		<val>Solstheim, kurhan Blodskaala</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Brodir Grove</key>
+	<val>Solstheim, las Brodir</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Brodir Grove Region</key>
+	<val>Solstheim, rejon lasu Brodir</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Castle Karstaag</key>
+	<val>Solstheim, Zamek Karstaag</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Castle Karstaag, Banquet Hall</key>
+	<val>Solstheim, Zamek Karstaag: sala bankietowa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Zamek Karstaag, sala bankietowa</key>
+		<val>Solstheim, Zamek Karstaag: sala bankietowa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Castle Karstaag, Caverns of Karstaag</key>
+	<val>Solstheim, Zamek Karstaag: jaskinie Karstaag</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Zamek Karstaag, jaskinie Karstaag</key>
+		<val>Solstheim, Zamek Karstaag: jaskinie Karstaag</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Castle Karstaag, Karstaag's Chambers</key>
+	<val>Solstheim, Zamek Karstaag: komnaty Karstaaga</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Zamek Karstaag, komnaty Karstaaga</key>
+		<val>Solstheim, Zamek Karstaag: komnaty Karstaaga</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Castle Karstaag, Throne Room</key>
+	<val>Solstheim, Zamek Karstaag: sala tronowa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Zamek Karstaag, sala tronowa</key>
+		<val>Solstheim, Zamek Karstaag: sala tronowa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Castle Karstaag, Tower</key>
+	<val>Solstheim, Zamek Karstaag: wieża</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Zamek Karstaag, wieża</key>
+		<val>Solstheim, Zamek Karstaag: wieża</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Cave of Hidden Music</key>
+	<val>Solstheim, Jaskinia Ukrytej Muzyki</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Caves of Fjalding</key>
+	<val>Solstheim, jaskinie Fjalding</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Chamber of Song</key>
+	<val>Solstheim, Komnata Pieśni</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Connorflenge Barrow</key>
+	<val>Solstheim, kurhan Connorflenge</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Kurhan Connorflenge</key>
+		<val>Solstheim, kurhan Connorflenge</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Domme</key>
+	<val>Solstheim, Domme</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Eddard Barrow</key>
+	<val>Solstheim, kurhan Eddard</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Kurhan Eddard</key>
+		<val>Solstheim, kurhan Eddard</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Felsaad Coast Region</key>
+	<val>Solstheim, wybrzeże Felsaad</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Fjell</key>
+	<val>Solstheim, Fjell</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Frossel</key>
+	<val>Solstheim, Frossel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Frosselmane Barrow</key>
+	<val>Solstheim, kurhan Frosselmane</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Kurhan Frosselmane</key>
+		<val>Solstheim, kurhan Frosselmane</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Frykte</key>
+	<val>Solstheim, Frykte</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Gandrung Caverns</key>
+	<val>Solstheim, jaskinie Gandrung</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Geilir the Mumbling's Dwelling</key>
+	<val>Solstheim, domostwo Geilira Mruka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Glenschul's Tomb</key>
+	<val>Solstheim, grobowiec Glenschula</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Grobowiec Glenschula</key>
+		<val>Solstheim, grobowiec Glenschula</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Gloomy Cave</key>
+	<val>Solstheim, posępna jaskinia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Graring's House</key>
+	<val>Solstheim, dom Graringa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Gronn</key>
+	<val>Solstheim, Gronn</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Gyldenhul Barrow</key>
+	<val>Solstheim, kurhan Gyldenhul</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Kurhan Gyldenhul</key>
+		<val>Solstheim, kurhan Gyldenhul</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Gyldenhul Barrow Entrance</key>
+	<val>Solstheim, wejście do kurhanu Gyldenhul</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, wejście do Kurhanu Gyldenhul</key>
+		<val>Solstheim, wejście do kurhanu Gyldenhul</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Halls of Penumbra</key>
+	<val>Solstheim, Sale Penumbry</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Himmelhost Barrow</key>
+	<val>Solstheim, kurhan Himmelhost</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Kurhan Himmelhost</key>
+		<val>Solstheim, kurhan Himmelhost</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Hirstaang Forest</key>
+	<val>Solstheim, las Hirstaang</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Hrothmund's Bane</key>
+	<val>Solstheim, Zguba Hrothmunda</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Hrothmund's Barrow</key>
+	<val>Solstheim, kurhan Hrothmunda</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Kurhan Hrothmunda</key>
+		<val>Solstheim, kurhan Hrothmunda</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Hvitkald Peak</key>
+	<val>Solstheim, góra Hvitkald</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Isinfier Plains</key>
+	<val>Solstheim, równina Isinfier</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Równina Isinfier</key>
+		<val>Solstheim, równina Isinfier</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Jolgeirr Barrow</key>
+	<val>Solstheim, kurhan Jolgeirr</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Kurhan Jolgeirr</key>
+		<val>Solstheim, kurhan Jolgeirr</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Kelsedolk Barrow</key>
+	<val>Solstheim, kurhan Kelsedolk</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Kurhan Kelsedolk</key>
+		<val>Solstheim, kurhan Kelsedolk</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Kjolver's Dwelling</key>
+	<val>Solstheim, domostwo Kjolver</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Kolbjorn Barrow</key>
+	<val>Solstheim, kurhan Kolbjorn</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Kurhan Kolbjorn</key>
+		<val>Solstheim, kurhan Kolbjorn</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Kolfinna's Dwelling</key>
+	<val>Solstheim, domostwo Kolfinny</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Lair of the Udyrfrykte</key>
+	<val>Solstheim, leże Udyrfrykte</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Lake Fjalding</key>
+	<val>Solstheim, jezioro Fjalding</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Legge</key>
+	<val>Solstheim, Legge</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Lukesturm Barrow</key>
+	<val>Solstheim, kurhan Lukesturm</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Kurhan Lukesturm</key>
+		<val>Solstheim, kurhan Lukesturm</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Moesring Mountains</key>
+	<val>Solstheim, góry Moesring</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Mortrag Glacier</key>
+	<val>Solstheim, lodowiec Mortrag</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Mortrag Glacier: Entry</key>
+	<val>Solstheim, lodowiec Mortrag: wejście</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Mortrag Glacier: Huntsman's Hall</key>
+	<val>Solstheim, lodowiec Mortrag: Hall Myśliwych</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Mortrag Glacier: Inner Ring</key>
+	<val>Solstheim, lodowiec Mortrag: pierścień wewnętrzny</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Mortrag Glacier: Outer Ring</key>
+	<val>Solstheim, lodowiec Mortrag: pierścień zewnętrzny</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Rimhull</key>
+	<val>Solstheim, Rimhull</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Sjobal</key>
+	<val>Solstheim, Sjobal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Skogsdrake Barrow</key>
+	<val>Solstheim, kurhan Skogsdrake</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Kurhan Skogsdrake</key>
+		<val>Solstheim, kurhan Skogsdrake</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Skygge</key>
+	<val>Solstheim, Skygge</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Solvjord</key>
+	<val>Solstheim, Solvjord</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Stahlman's Gorge</key>
+	<val>Solstheim, Rozpadlina Stahlmana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Stormpfund Barrow</key>
+	<val>Solstheim, kurhan Stormpfund</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Kurhan Stormpfund</key>
+		<val>Solstheim, kurhan Stormpfund</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Thirsk</key>
+	<val>Solstheim, Thirsk</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Thormoor's Watch</key>
+	<val>Solstheim, strażnica Thormoora</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Tombs of Skaalara</key>
+	<val>Solstheim, grobowiec Skaalara</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Grobowiec Skaalara</key>
+		<val>Solstheim, grobowiec Skaalara</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Ulfgar the Unending's Dwelling</key>
+	<val>Solstheim, domostwo Ulfgara Wytrwałego</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Uncle Sweetshare's Workshop</key>
+	<val>Solstheim, warsztat Wujaszka Słodkiej Działki</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Valbrandr Barrow</key>
+	<val>Solstheim, kurhan Valbrandr</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Solstheim, Kurhan Valbrandr</key>
+		<val>Solstheim, kurhan Valbrandr</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Solstheim, Varstaad Caves</key>
+	<val>Solstheim, jaskinie Varstaad</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sotha Sil,</key>
+	<val>Sotha Sil</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sotha Sil, Central Gearworks</key>
+	<val>Sotha Sil, Główna Rozdzielnia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sotha Sil, Chamber of Sohleh</key>
+	<val>Sotha Sil, Komnata Sohleh</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sotha Sil, Dome of Kasia</key>
+	<val>Sotha Sil, Kopuła Kasji</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sotha Sil, Dome of Serlyn</key>
+	<val>Sotha Sil, Kopuła Serlyna</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sotha Sil, Dome of Sotha Sil</key>
+	<val>Sotha Sil, Kopuła Sotha Sila</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sotha Sil, Dome of Udok</key>
+	<val>Sotha Sil, Kopuła Udoka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sotha Sil, Dome of the Imperfect</key>
+	<val>Sotha Sil, Kopuła Niedoskonałego</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sotha Sil, Hall of Delirium</key>
+	<val>Sotha Sil, Sala Delirium</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sotha Sil, Hall of Mileitho</key>
+	<val>Sotha Sil, Sala Mileitho</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sotha Sil, Hall of Sallaemu</key>
+	<val>Sotha Sil, Sala Sallaemu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sotha Sil, Hall of Theuda</key>
+	<val>Sotha Sil, Sala Theudy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sotha Sil, Inner Flooded Halls</key>
+	<val>Sotha Sil, wewn. zalane poziomy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sotha Sil, Outer Flooded Halls</key>
+	<val>Sotha Sil, zewn. zalane poziomy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sterdecan's Farmhouse</key>
+	<val>Farma Sterdecana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Strange Shipwreck, Cabin</key>
+	<val>Dziwny wrak, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Strange Shipwreck, Lower Level</key>
+	<val>Dziwny wrak, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Strange Shipwreck, Upper Level</key>
+	<val>Dziwny wrak, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Subdun</key>
+	<val>Subdun</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Subdun, Shrine</key>
+	<val>Subdun, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sud</key>
+	<val>Sud</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sudanit Mine</key>
+	<val>Kopalnia Sudanit</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sulipund</key>
+	<val>Sulipund</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Sur Egg Mine</key>
+	<val>Kopalnia jaj Sur</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Suran</key>
+	<val>Suran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Suran, Desele's House of Earthly Delights</key>
+	<val>Suran, Dom Rozkoszy Cielesnych Desele</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Suran, Garothmuk gro-Muzgub: Smith</key>
+	<val>Suran, Garothmuk gro-Muzgub: Kowal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Suran, Goldyn Belaram: Pawnbroker</key>
+	<val>Suran, Goldyn Belaram: Lombard</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Suran, Guard Tower</key>
+	<val>Suran, strażnica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Suran, Ibarnadad Assirnarari: Apothecary</key>
+	<val>Suran, Ibarnadad Assirnarari: Aptekarz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Suran, Oran Manor</key>
+	<val>Suran, posiadłość Oran</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Suran, Posiadłość Oran</key>
+		<val>Suran, posiadłość Oran</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Suran, Ralds Oril: Trader</key>
+	<val>Suran, Ralds Oril: Kupiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Suran, Ranosa Gilvayn: Outfitter</key>
+	<val>Suran, Ranosa Gilvayn: Krawiectwo</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Suran, Suran Slave Market</key>
+	<val>Suran, targ niewolników</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Suran, Suran Temple</key>
+	<val>Suran, Świątynia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Suran, Suran Tradehouse</key>
+	<val>Suran, surański dom cechowy</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Suran, Surański Dom Cechowy</key>
+		<val>Suran, surański dom cechowy</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Suran, Verara Rendo: Clothier</key>
+	<val>Suran, Verara Rendo: Krawcowa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Surirulk</key>
+	<val>Surirulk</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Aruhn</key>
+	<val>Tel Aruhn</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Aruhn, Aryne Telnim: Smith</key>
+	<val>Tel Aruhn, Aryne Telnim: Kowal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Aruhn, Bildren Areleth: Apothecary</key>
+	<val>Tel Aruhn, Bildren Areleth: Aptekarz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Aruhn, Ferele Athram: Trader</key>
+	<val>Tel Aruhn, Ferele Athram: Kupiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Aruhn, Maren Uvaren: Enchanter</key>
+	<val>Tel Aruhn, Maren Uvaren: Zaklinacz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Aruhn, Plot and Plaster</key>
+	<val>Tel Aruhn, Pod Kielnią</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Aruhn, Tower Entry</key>
+	<val>Tel Aruhn, wejście do wieży</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Aruhn, Tower Living Quarters</key>
+	<val>Tel Aruhn, wieża: kwatery</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Aruhn, Underground</key>
+	<val>Tel Aruhn, podziemia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Aruhn, Upper Tower</key>
+	<val>Tel Aruhn, górne piętra</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Branora</key>
+	<val>Tel Branora</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Branora, Ervyna Hlervu's Shack</key>
+	<val>Tel Branora, chata Ervyny Hlervu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Branora, Evos Goran's House</key>
+	<val>Tel Branora, dom Evosa Gorana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Branora, Fadase Selvayn: Trader</key>
+	<val>Tel Branora, Fadase Selvayn: Handlarka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Branora, Fedar Davus's House</key>
+	<val>Tel Branora, dom Fedara Davusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Branora, Galen Berer: Armorer</key>
+	<val>Tel Branora, Galen Berer: Płatnerz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Branora, Giron Manas's Shack</key>
+	<val>Tel Branora, chata Girona Manasa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Branora, Lower Tower</key>
+	<val>Tel Branora, dolne piętra</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Branora, Manos Vavyn's House</key>
+	<val>Tel Branora, dom Manosa Vavyna</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Branora, Seryne Relas's House</key>
+	<val>Tel Branora, dom Seryne Relas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Branora, Sethan's Tradehouse</key>
+	<val>Tel Branora, Dom Cechowy Sethana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Branora, Tower Dungeon</key>
+	<val>Tel Branora, lochy pod wieżą</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Branora, Tower Guardpost</key>
+	<val>Tel Branora, posterunek na wieży</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Branora, Upper Tower</key>
+	<val>Tel Branora, górne piętra</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Branora, Upper Tower: Therana's Chamber</key>
+	<val>Tel Branora, górne piętra: komnata Therany</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Fyr</key>
+	<val>Tel Fyr</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Mora</key>
+	<val>Tel Mora</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Mora, Berwen: Trader</key>
+	<val>Tel Mora, Berwen: Handlarka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Mora, Elegnan: Clothier</key>
+	<val>Tel Mora, Elegnan: Krawcowa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Mora, Jolda: Apothecary</key>
+	<val>Tel Mora, Jolda: Aptekarka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Mora, Kirsty's House</key>
+	<val>Tel Mora, dom Kirsty</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Mora, Liette's House</key>
+	<val>Tel Mora, dom Liette</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Mora, Lower Tower</key>
+	<val>Tel Mora, dolne piętra</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Mora, Nona's House</key>
+	<val>Tel Mora, dom Nony</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Mora, Radras: Smith</key>
+	<val>Tel Mora, Radras: Kowal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Mora, The Covenant</key>
+	<val>Tel Mora, Konwent</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Mora, Tower Services</key>
+	<val>Tel Mora, wieża: usługi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Mora, Upper Tower</key>
+	<val>Tel Mora, górne piętra</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Uvirith, Arelas' House</key>
+	<val>Tel Uvirith, dom Arelas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Uvirith, Menas' House</key>
+	<val>Tel Uvirith, dom Menas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Uvirith, Omavel's House</key>
+	<val>Tel Uvirith, dom Omavel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Uvirith, Seleth's House</key>
+	<val>Tel Uvirith, dom Seletha</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Uvirith, Tower Dungeon</key>
+	<val>Tel Uvirith, lochy pod wieżą</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Uvirith, Tower Lower</key>
+	<val>Tel Uvirith, dolne piętra</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Uvirith, Tower Upper</key>
+	<val>Tel Uvirith, górne piętra</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Vos</key>
+	<val>Tel Vos</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Vos, Aryon's Chambers</key>
+	<val>Tel Vos, komnaty Aryona</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Vos, Barracks and Armory</key>
+	<val>Tel Vos, koszary i zbrojownia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Vos, Central Tower</key>
+	<val>Tel Vos, główna wieża</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Vos, Dungeon</key>
+	<val>Tel Vos, lochy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Vos, Jail</key>
+	<val>Tel Vos, więzienie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Vos, Northeastern Tower</key>
+	<val>Tel Vos, wieża północno-wschodnia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Vos, Services Tower</key>
+	<val>Tel Vos, wieża: usługi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tel Vos, Southern Tower</key>
+	<val>Tel Vos, wieża południowa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Telasero</key>
+	<val>Telasero</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Telasero, Lower Level</key>
+	<val>Telasero, dolny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Telasero, Propylon Chamber</key>
+	<val>Telasero, portal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Telasero, Upper Level</key>
+	<val>Telasero, górny poziom</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Telvayn Ancestral Tomb</key>
+	<val>Grobowiec rodziny Telvayn</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Thalas Ancestral Tomb</key>
+	<val>Grobowiec rodziny Thalas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tharys Ancestral Tomb</key>
+	<val>Grobowiec rodziny Tharys</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Thelas Ancestral Tomb</key>
+	<val>Grobowiec rodziny Thelas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Thiralas Ancestral Tomb</key>
+	<val>Grobowiec rodziny Thiralas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Thirsk</key>
+	<val>Thirsk</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Thirsk Region</key>
+	<val>Region Thirsk</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tin-Ahhe</key>
+	<val>Tin-Ahhe</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>ToddTest</key>
+	<val>ToddTest</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tower of Tel Fyr, Hall of Fyr</key>
+	<val>Wieża Tel Fyr, Sala Fyra</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tower of Tel Fyr, Onyx Hall</key>
+	<val>Wieża Tel Fyr, Sala Onyksowa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tukushapal</key>
+	<val>Tukushapal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tukushapal, Sepulcher</key>
+	<val>Tukushapal, grobowiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tureynulal</key>
+	<val>Tureynulal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tureynulal, Bladder of Clovis</key>
+	<val>Tureynulal, Pęcherz Clovis</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tureynulal, Eye of Duggan</key>
+	<val>Tureynulal, Oko Duggana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tureynulal, Eye of Thom Wye</key>
+	<val>Tureynulal, Oko Thoma Wye</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tureynulal, Kagrenac's Library</key>
+	<val>Tureynulal, biblioteka Kagrenaka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Tusenend, Shrine</key>
+	<val>Tusenend, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ularradallaku, Shrine</key>
+	<val>Ularradallaku, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ules Manor</key>
+	<val>Posiadłość Ules</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ules Manor, Slave Shack</key>
+	<val>Posiadłość Ules, czworaki</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ules Manor, Slavemaster's Shack</key>
+	<val>Posiadłość Ules, chata nadzorcy niewolników</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Ulummusa</key>
+	<val>Ulummusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Uncharted Shipwreck, Lower Level</key>
+	<val>Nieoznaczony wrak, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Unchartered Shipwreck, Cabin</key>
+	<val>Nieoznaczony wrak, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Unchartered Shipwreck, Upper Level</key>
+	<val>Nieoznaczony wrak, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Unexplored Shipwreck, Cabin</key>
+	<val>Niezbadany wrak, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Unexplored Shipwreck, Lower Level</key>
+	<val>Niezbadany wrak, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Unexplored Shipwreck, Upper Level</key>
+	<val>Niezbadany wrak, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Unknown Shipwreck, Cabin</key>
+	<val>Nieznany wrak, kajuta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Unknown Shipwreck, Lower Level</key>
+	<val>Nieznany wrak, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Unknown Shipwreck, Upper Level</key>
+	<val>Nieznany wrak, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Unmarked Shipwreck, Lower Level</key>
+	<val>Nieoznakowany wrak, dolny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Unmarked Shipwreck, Upper Level</key>
+	<val>Nieoznakowany wrak, górny pokład</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku Camp</key>
+	<val>Obóz Urshilaku</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku Camp, Ahasour's Yurt</key>
+	<val>Obóz Urshilaku, jurta Ahasoura</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku Camp, Ashkhan's Yurt</key>
+	<val>Obóz Urshilaku, jurta Popielnego Chana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku Camp, Kurapli's Yurt</key>
+	<val>Obóz Urshilaku, jurta Kurapli</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku Camp, Maeli's Yurt</key>
+	<val>Obóz Urshilaku, jurta Maeli</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku Camp, Sakiran's Yurt</key>
+	<val>Obóz Urshilaku, jurta Sakiran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku Camp, Shara's Yurt</key>
+	<val>Obóz Urshilaku, jurta Shary</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku Camp, Shimsun's Yurt</key>
+	<val>Obóz Urshilaku, jurta Shimsuna</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku Camp, Wise Woman's Yurt</key>
+	<val>Obóz Urshilaku, jurta Wieszczki</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku Camp, Zabamund's Yurt</key>
+	<val>Obóz Urshilaku, jurta Zabamunda</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku Camp, Zanummu's Yurt</key>
+	<val>Obóz Urshilaku, jurta Zanummu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku, Astral Burial</key>
+	<val>Urshilaku, Gwiezdny Grobowiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku, Fragile Burial</key>
+	<val>Urshilaku, Spokojny Grobowiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku, Juno Burial</key>
+	<val>Urshilaku, grobowiec Juno</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku, Kakuna Burial</key>
+	<val>Urshilaku, grobowiec Kakuny</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku, Karma Burial</key>
+	<val>Urshilaku, grobowiec Karmy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku, Kefka Burial</key>
+	<val>Urshilaku, grobowiec Kefki</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Urshilaku, Laterus Burial</key>
+	<val>Urshilaku, grobowiec Laterusa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Uveran Ancestral Tomb</key>
+	<val>Grobowiec rodziny Uveran</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Uvirith's Grave</key>
+	<val>Grób Uviritha</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Valenvaryon</key>
+	<val>Valenvaryon</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Valenvaryon, Durz's Hut</key>
+	<val>Valenvaryon, chata Durz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Valenvaryon, Gashna's Hut</key>
+	<val>Valenvaryon, chata Gashny</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Valenvaryon, Lambug's Hut</key>
+	<val>Valenvaryon, chata Lambug</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Valenvaryon, Lurog's Hut</key>
+	<val>Valenvaryon, chata Luroga</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Valenvaryon, Propylon Chamber</key>
+	<val>Valenvaryon, portal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Valenvaryon, Umug's Hut</key>
+	<val>Valenvaryon, chata Umuga</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vandus Ancestral Tomb</key>
+	<val>Grobowiec rodziny Vandus</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vansunalit Egg Mine</key>
+	<val>Kopalnia jaj Vansunalit</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vas</key>
+	<val>Vas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vas, Entry Level</key>
+	<val>Vas, wejście</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vas, Tower</key>
+	<val>Vas, wieża</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vassamsi Grotto</key>
+	<val>Grota Vassamsi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vassir-Didanat Cave</key>
+	<val>Jaskinia Vassir-Didanat</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Velas Ancestral Tomb</key>
+	<val>Grobowiec rodziny Velas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Veloth Ancestral Tomb</key>
+	<val>Grobowiec rodziny Veloth</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vemynal</key>
+	<val>Vemynal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vemynal, Hall of Torque</key>
+	<val>Vemynal, Sala Obrotów</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vemynal, Outer Fortress</key>
+	<val>Vemynal, Zewnętrzna Forteca</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Venim Ancestral Tomb</key>
+	<val>Grobowiec rodziny Venim</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Verelnim Ancestral Tomb</key>
+	<val>Grobowiec rodziny Verelnim</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec</key>
+	<val>Vivek</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Agrippina Herennia: Clothier</key>
+	<val>Vivek, Agrippina Herennia: Krawcowa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Alusaron: Smith</key>
+	<val>Vivek, Alusaron: Kowal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Andilu Drothan: Alchemist</key>
+	<val>Vivek, Andilu Drothan: Alchemiczka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Arena</key>
+	<val>Vivek, Arena</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Arena Canalworks</key>
+	<val>Vivek, Arena: kanały</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Arena Fighters Quarters</key>
+	<val>Vivek, Arena: kwatery wojowników</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Arena Fighters Training</key>
+	<val>Vivek, Arena: sala ćwiczeń</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Arena Hidden Area</key>
+	<val>Vivek, Arena: ukryte miejsce</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Arena Holding Cells</key>
+	<val>Vivek, Arena: klatki</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Arena Pit</key>
+	<val>Vivek, Arena: arena główna</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Arena Storage</key>
+	<val>Vivek, Arena: składowisko</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Arena Underworks</key>
+	<val>Vivek, Arena: podziemia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Arena Waistworks</key>
+	<val>Vivek, Arena: parter</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Aurane Frernis: Apothecary</key>
+	<val>Vivek, Aurane Frernis: Aptekarka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Black Shalk Cornerclub</key>
+	<val>Vivek, Pod Czarnym Skarabeuszem</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Canon Offices</key>
+	<val>Vivek, biura kapłańskie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Canon Quarters</key>
+	<val>Vivek, kwatery kapłańskie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Curio Manor</key>
+	<val>Vivek, posiadłość Curio</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Posiadłość Curio</key>
+		<val>Vivek, posiadłość Curio</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Dralor Manor</key>
+	<val>Vivek, posiadłość Dralor</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Posiadłość Dralor</key>
+		<val>Vivek, posiadłość Dralor</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Elven Nations Cornerclub</key>
+	<val>Vivek, Oberża Elfickie Narody</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Foreign Quarter</key>
+	<val>Vivek, Dzielnica Przybyszów</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Foreign Quarter Canalworks</key>
+	<val>Vivek, Dzielnica Przybyszów: kanały</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Foreign Quarter Lower Waistworks</key>
+	<val>Vivek, Dzielnica Przybyszów: dolny parter</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Foreign Quarter Plaza</key>
+	<val>Vivek, Dzielnica Przybyszów: plac</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Foreign Quarter Tomb</key>
+	<val>Vivek, Dzielnica Przybyszów: grobowiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Foreign Quarter Underworks</key>
+	<val>Vivek, Dzielnica Przybyszów: podziemia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Foreign Quarter Upper Waistworks</key>
+	<val>Vivek, Dzielnica Przybyszów: górny parter</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Guild of Fighters</key>
+	<val>Vivek, Gildia Wojowników</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, gildia wojowników</key>
+		<val>Vivek, Gildia Wojowników</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Guild of Mages</key>
+	<val>Vivek, Gildia Magów</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, gildia magów</key>
+		<val>Vivek, Gildia Magów</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hall Underworks</key>
+	<val>Vivek, podziemia</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Podziemia</key>
+		<val>Vivek, podziemia</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hall of Justice</key>
+	<val>Vivek, Pałac Sprawiedliwości</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hall of Justice Secret Library</key>
+	<val>Vivek, Pałac Sprawiedliwości: tajna biblioteka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hall of Wisdom</key>
+	<val>Vivek, Dom Mądrości</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, High Fane</key>
+	<val>Vivek, Wielka Katedra</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaalu</key>
+	<val>Vivek, Hlaalu</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Strefa Hlaalu</key>
+		<val>Vivek, Hlaalu</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaalu Alchemist</key>
+	<val>Vivek, Hlaalu: Alchemik</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaalu Ancestral Vaults</key>
+	<val>Vivek, Hlaalu: krypty rodowe</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaalu Canalworks</key>
+	<val>Vivek, Hlaalu: kanały</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaalu Edryno Arethi's House</key>
+	<val>Vivek, Hlaalu: dom Edryno Arethi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaalu General Goods</key>
+	<val>Vivek, Hlaalu: Towary Wszelakie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaalu Pawnbroker</key>
+	<val>Vivek, Hlaalu: lombard</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaalu Plaza</key>
+	<val>Vivek, Hlaalu: plac</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaalu Prison Cells</key>
+	<val>Vivek, Hlaalu: więzienie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaalu Records</key>
+	<val>Vivek, Hlaalu: archiwum</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaalu Temple</key>
+	<val>Vivek, Hlaalu: Świątynia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaalu Treasury</key>
+	<val>Vivek, Hlaalu: skarbiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaalu Underworks</key>
+	<val>Vivek, Hlaalu: podziemia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaalu Vaults</key>
+	<val>Vivek, Hlaalu: krypty</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaalu Waistworks</key>
+	<val>Vivek, Hlaalu: parter</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaalu Weaponsmith</key>
+	<val>Vivek, Hlaalu: Płatnerz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Hlaren Residence</key>
+	<val>Vivek, rezydencja Hlaren</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Rezydencja Hlaren</key>
+		<val>Vivek, rezydencja Hlaren</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, J'Rasha: Healer</key>
+	<val>Vivek, J'Rasha: Uzdrowiciel</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Jeanne: Trader</key>
+	<val>Vivek, Jeanne: Handlarka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Jobasha's Rare Books</key>
+	<val>Vivek, Rzadkie Księgi Jobashy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Justice Offices</key>
+	<val>Vivek, Biuro Sprawiedliwości</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Library of Vivec</key>
+	<val>Vivek, Biblioteka Miejska</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Lucretinaus Olcinius: Trader</key>
+	<val>Vivek, Lucretinaus Olcinius: Kupiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Mevel Fererus: Trader</key>
+	<val>Vivek, Mevel Fererus: Kupiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Milo's Quarters</key>
+	<val>Vivek, kwatera Milo</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Miun-Gei: Enchanter</key>
+	<val>Vivek, Miun-Gei: Zaklinacz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, No Name Club</key>
+	<val>Vivek, Oberża Bez Nazwy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Office of the Watch</key>
+	<val>Vivek, biuro Straży</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Ordinator Barracks</key>
+	<val>Vivek, koszary Straży Świątynnej</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Palace of Vivec</key>
+	<val>Vivek, Pałac Viveka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Puzzle Canal, Center</key>
+	<val>Vivek, Labirynt: środek</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Puzzle Canal, Level 1</key>
+	<val>Vivek, Labirynt: poziom 1</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Puzzle Canal, Level 2</key>
+	<val>Vivek, Labirynt: poziom 2</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Puzzle Canal, Level 3</key>
+	<val>Vivek, Labirynt: poziom 3</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Puzzle Canal, Level 4</key>
+	<val>Vivek, Labirynt: poziom 4</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Puzzle Canal, Level 5</key>
+	<val>Vivek, Labirynt: poziom 5</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Ralen Tilvur: Smith</key>
+	<val>Vivek, Ralen Tilvur: Kowal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Redoran</key>
+	<val>Vivek, Redoran</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Strefa Redoran</key>
+		<val>Vivek, Redoran</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Redoran Ancestral Vaults</key>
+	<val>Vivek, Redoran: krypty rodowe</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Redoran Canalworks</key>
+	<val>Vivek, Redoran: kanały</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Redoran Plaza</key>
+	<val>Vivek, Redoran: plac</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Redoran Prison Cells</key>
+	<val>Vivek, Redoran: więzienie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Redoran Records</key>
+	<val>Vivek, Redoran: archiwum</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Redoran Scout & Drillmaster</key>
+	<val>Vivek, Redoran: zwiadowca i trener</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Redoran Smith</key>
+	<val>Vivek, Redoran: kowal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Redoran Temple Shrine</key>
+	<val>Vivek, Redoran: kaplica Świątyni</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Redoran Trader</key>
+	<val>Vivek, Redoran: kupiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Redoran Treasury</key>
+	<val>Vivek, Redoran: skarbiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Redoran Underworks</key>
+	<val>Vivek, Redoran: podziemia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Redoran Vaults</key>
+	<val>Vivek, Redoran: krypty</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Redoran Waistworks</key>
+	<val>Vivek, Redoran: parter</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Saren Manor</key>
+	<val>Vivek, posiadłość Saren</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Posiadłość Saren</key>
+		<val>Vivek, posiadłość Saren</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Simine Fralinie: Bookseller</key>
+	<val>Vivek, Simine Fralinie: Księgarz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn</key>
+	<val>Vivek, św. Delyn</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Dzielnica Św. Delyna</key>
+		<val>Vivek, św. Delyn</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Canal North-One</key>
+	<val>Vivek, św. Delyn: kanał, północ-jeden</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: kanał, północ-jeden</key>
+		<val>Vivek, św. Delyn: kanał, północ-jeden</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Canal North-Three</key>
+	<val>Vivek, św. Delyn: kanał, północ-trzy</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: kanał, północ-trzy</key>
+		<val>Vivek, św. Delyn: kanał, północ-trzy</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Canal North-Two</key>
+	<val>Vivek, św. Delyn: kanał, północ-dwa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: kanał, północ-dwa</key>
+		<val>Vivek, św. Delyn: kanał, północ-dwa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Canal South-One</key>
+	<val>Vivek, św. Delyn: kanał, południe-jeden</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: kanał, południe-jeden</key>
+		<val>Vivek, św. Delyn: kanał, południe-jeden</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Canal South-Three</key>
+	<val>Vivek, św. Delyn: kanał, południe-trzy</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: kanał, południe-trzy</key>
+		<val>Vivek, św. Delyn: kanał, południe-trzy</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Canal South-Two</key>
+	<val>Vivek, św. Delyn: kanał, południe-dwa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: kanał, południe-dwa</key>
+		<val>Vivek, św. Delyn: kanał, południe-dwa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Canalworks</key>
+	<val>Vivek, św. Delyn: kanały</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: kanały</key>
+		<val>Vivek, św. Delyn: kanały</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Glassworker's Hall</key>
+	<val>Vivek, św. Delyn: Cech Szklarzy</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: cech szklarzy</key>
+		<val>Vivek, św. Delyn: Cech Szklarzy</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Plaza</key>
+	<val>Vivek, św. Delyn: plac</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: plac</key>
+		<val>Vivek, św. Delyn: plac</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Potter's Hall</key>
+	<val>Vivek, św. Delyn: Cech Garncarzy</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: cech garncarzy</key>
+		<val>Vivek, św. Delyn: Cech Garncarzy</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Storage</key>
+	<val>Vivek, św. Delyn: składowisko</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: składowisko</key>
+		<val>Vivek, św. Delyn: składowisko</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Underworks</key>
+	<val>Vivek, św. Delyn: podziemia</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: podziemia</key>
+		<val>Vivek, św. Delyn: podziemia</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Waist North-One</key>
+	<val>Vivek, św. Delyn: parter, północ-jeden</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: parter, północ-jeden</key>
+		<val>Vivek, św. Delyn: parter, północ-jeden</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Waist North-Two</key>
+	<val>Vivek, św. Delyn: parter, północ-dwa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: parter, północ-dwa</key>
+		<val>Vivek, św. Delyn: parter, północ-dwa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Waist South-One</key>
+	<val>Vivek, św. Delyn: parter, południe-jeden</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: parter, południe-jeden</key>
+		<val>Vivek, św. Delyn: parter, południe-jeden</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Waist South-Two</key>
+	<val>Vivek, św. Delyn: parter, południe-dwa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: parter, południe-dwa</key>
+		<val>Vivek, św. Delyn: parter, południe-dwa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Delyn Waistworks</key>
+	<val>Vivek, św. Delyn: parter</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Delyn: parter</key>
+		<val>Vivek, św. Delyn: parter</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms</key>
+	<val>Vivek, św. Olms</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Dzielnica Św. Olmsa</key>
+		<val>Vivek, św. Olms</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Brewers and Fishmongers Hall</key>
+	<val>Vivek, św. Olms: Cech Piwowarów i Sprzedawców Ryb</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: Cech Piwowarów i Sprzedawców Ryb</key>
+		<val>Vivek, św. Olms: Cech Piwowarów i Sprzedawców Ryb</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Canal North-One</key>
+	<val>Vivek, św. Olms: kanał, północ-jeden</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: kanał, północ-jeden</key>
+		<val>Vivek, św. Olms: kanał, północ-jeden</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Canal North-Three</key>
+	<val>Vivek, św. Olms: kanał, północ-trzy</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: kanał, północ-trzy</key>
+		<val>Vivek, św. Olms: kanał, północ-trzy</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Canal North-Two</key>
+	<val>Vivek, św. Olms: kanał, północ-dwa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: kanał, północ-dwa</key>
+		<val>Vivek, św. Olms: kanał, północ-dwa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Canal South-One</key>
+	<val>Vivek, św. Olms: kanał, południe-jeden</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: kanał, południe-jeden</key>
+		<val>Vivek, św. Olms: kanał, południe-jeden</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Canal South-Three</key>
+	<val>Vivek, św. Olms: kanał, południe-trzy</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: kanał, południe-trzy</key>
+		<val>Vivek, św. Olms: kanał, południe-trzy</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Canal South-Two</key>
+	<val>Vivek, św. Olms: kanał, południe-dwa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: kanał, południe-dwa</key>
+		<val>Vivek, św. Olms: kanał, południe-dwa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Canalworks</key>
+	<val>Vivek, św. Olms: kanały</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: kanały</key>
+		<val>Vivek, św. Olms: kanały</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Farmers and Laborers Hall</key>
+	<val>Vivek, św. Olms: Cech Farmerów i Robotników</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: Cech Farmerów i Robotników</key>
+		<val>Vivek, św. Olms: Cech Farmerów i Robotników</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Haunted Manor</key>
+	<val>Vivek, św. Olms: nawiedzony dom</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: nawiedzony dom</key>
+		<val>Vivek, św. Olms: nawiedzony dom</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Plaza</key>
+	<val>Vivek, św. Olms: plac</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: plac</key>
+		<val>Vivek, św. Olms: plac</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Storage</key>
+	<val>Vivek, św. Olms: składowisko</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: składowisko</key>
+		<val>Vivek, św. Olms: składowisko</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Tailors and Dyers Hall</key>
+	<val>Vivek, św. Olms: Cech Tkaczy i Farbiarzy</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: Cech Tkaczy i Farbiarzy</key>
+		<val>Vivek, św. Olms: Cech Tkaczy i Farbiarzy</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Tanners and Miners Hall</key>
+	<val>Vivek, św. Olms: Cech Garbarzy i Górników</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: Cech Garbarzy i Górników</key>
+		<val>Vivek, św. Olms: Cech Garbarzy i Górników</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Temple</key>
+	<val>Vivek, św. Olms: Świątynia</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: Świątynia</key>
+		<val>Vivek, św. Olms: Świątynia</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Underworks</key>
+	<val>Vivek, św. Olms: podziemia</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: podziemia</key>
+		<val>Vivek, św. Olms: podziemia</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Upper North-One</key>
+	<val>Vivek, św. Olms: góra, północ-jeden</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: góra, północ-jeden</key>
+		<val>Vivek, św. Olms: góra, północ-jeden</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Upper North-Two</key>
+	<val>Vivek, św. Olms: góra, północ-dwa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: góra, północ-dwa</key>
+		<val>Vivek, św. Olms: góra, północ-dwa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Upper South-One</key>
+	<val>Vivek, św. Olms: góra, południe-jeden</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: góra, południe-jeden</key>
+		<val>Vivek, św. Olms: góra, południe-jeden</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Waist North-One</key>
+	<val>Vivek, św. Olms: parter, północ-jeden</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: parter, północ-jeden</key>
+		<val>Vivek, św. Olms: parter, północ-jeden</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Waist North-Two</key>
+	<val>Vivek, św. Olms: parter, północ-dwa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: parter, północ-dwa</key>
+		<val>Vivek, św. Olms: parter, północ-dwa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Waist South-One</key>
+	<val>Vivek, św. Olms: parter, południe-jeden</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: parter, południe-jeden</key>
+		<val>Vivek, św. Olms: parter, południe-jeden</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Waist South-Two</key>
+	<val>Vivek, św. Olms: parter, południe-dwa</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: parter, południe-dwa</key>
+		<val>Vivek, św. Olms: parter, południe-dwa</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Waistworks</key>
+	<val>Vivek, św. Olms: parter</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: parter</key>
+		<val>Vivek, św. Olms: parter</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Yngling Manor</key>
+	<val>Vivek, św. Olms: posiadłość Yngling</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: Posiadłość Yngling</key>
+		<val>Vivek, św. Olms: posiadłość Yngling</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, St. Olms Yngling Manor Basement</key>
+	<val>Vivek, św. Olms: posiadłość Yngling, piwnica</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Św. Olms: Posiadłość Yngling, piwnica</key>
+		<val>Vivek, św. Olms: posiadłość Yngling, piwnica</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Telvanni</key>
+	<val>Vivek, Telvanni</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Strefa Telvanni</key>
+		<val>Vivek, Telvanni</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Telvanni Alchemist</key>
+	<val>Vivek, Telvanni: alchemik</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Telvanni Apothecary</key>
+	<val>Vivek, Telvanni: aptekarz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Telvanni Canalworks</key>
+	<val>Vivek, Telvanni: kanały</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Telvanni Enchanter</key>
+	<val>Vivek, Telvanni: zaklinacz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Telvanni Mage</key>
+	<val>Vivek, Telvanni: mag</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Telvanni Monster Lab</key>
+	<val>Vivek, Telvanni: laboratorium</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Telvanni Plaza</key>
+	<val>Vivek, Telvanni: plac</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Telvanni Prison Cells</key>
+	<val>Vivek, Telvanni: więzienie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Telvanni Sorcerer</key>
+	<val>Vivek, Telvanni: czarownik</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Telvanni Temple</key>
+	<val>Vivek, Telvanni: Świątynia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Telvanni Tower</key>
+	<val>Vivek, Telvanni: wieża</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Telvanni Underworks</key>
+	<val>Vivek, Telvanni: podziemia</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Telvanni Upper Storage</key>
+	<val>Vivek, Telvanni: górne składowisko</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Telvanni Vault</key>
+	<val>Vivek, Telvanni: krypta</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Telvanni Waistworks</key>
+	<val>Vivek, Telvanni: parter</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Temple</key>
+	<val>Vivek, Strefa Świątynna</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Temporary Telvanni Housing</key>
+	<val>Vivek, tymczasowa siedziba Telvanni</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, Tervur Braven: Trader</key>
+	<val>Vivek, Tervur Braven: Kupiec</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, The Abbey of St. Delyn the Wise</key>
+	<val>Vivek, Opactwo św. Delyna Mędrca</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vivek, Opactwo Św. Delyna, Mędrca</key>
+		<val>Vivek, Opactwo św. Delyna Mędrca</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, The Flowers of Gold</key>
+	<val>Vivek, Złote Kwiecie</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vivec, The Lizard's Head</key>
+	<val>Vivek, Jaszczurzy Łeb</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vor Lair, Chambers of Alta Vor</key>
+	<val>Nora Vor, komnaty Alta Vor</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vor Lair, Interior</key>
+	<val>Nora Vor, wnętrze</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vos</key>
+	<val>Vos</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vos, Dreynos Elvul's Farmhouse</key>
+	<val>Vos, farma Dreynosa Elvula</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vos, Fanisea Irano's Farmhouse</key>
+	<val>Vos, farma Fanisei Irano</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vos, Ienasa Radas's Farmhouse</key>
+	<val>Vos, farma Ienasy Radas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vos, Maela Kaushad's Farmhouse</key>
+	<val>Vos, farma Maeli Kaushad</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vos, Mandyn Ralas's Farmhouse</key>
+	<val>Vos, farma Mandyna Ralasa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vos, Menus Felas's Farmhouse</key>
+	<val>Vos, farma Menusa Felasa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vos, Runethyne Andas's Farmhouse</key>
+	<val>Vos, farma Runethyne Andas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vos, Thilse Aralas's Farmhouse</key>
+	<val>Vos, farma Thilse Aralas</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vos, Trilam Drolnor's Farmhouse</key>
+	<val>Vos, farma Trilama Drolnora</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vos, Ulvil Llothas's Farmhouse</key>
+	<val>Vos, farma Ulvila Llothasa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vos, Varo Tradehouse</key>
+	<val>Vos, Dom Cechowy Varo</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vos, Varo Tradehouse Entrance</key>
+	<val>Vos, Dom Cechowy Varo: wejście</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vos, Varo Tradehouse Storage</key>
+	<val>Vos, Dom Cechowy Varo: magazyn</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Vos, Vos Chapel</key>
+	<val>Vos, kaplica</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>Vos, Kaplica</key>
+		<val>Vos, kaplica</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>West Gash Region</key>
+	<val>Zachodnia Wyrwa</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Wilderness</key>
+	<val>Dzicz</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Wolverine Hall</key>
+	<val>Dom Rosomaka</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Yakanalit</key>
+	<val>Yakanalit</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Yakaridan Camp, Kitbael's Yurt</key>
+	<val>Obóz Yakaridan, jurta Kitbaela</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Yakin</key>
+	<val>Yakin</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Yakin, Shrine</key>
+	<val>Yakin, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Yanemus Mine</key>
+	<val>Kopalnia Yanemus</val>
+</record>
+	<record>
+		<_id>CELL</_id>
+		<key>kopalniaYanemus</key>
+		<val>Kopalnia Yanemus</val>
+	</record>
+<record>
+	<_id>CELL</_id>
+	<key>Yansirramus</key>
+	<val>Yansirramus</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Yansirramus, Shrine</key>
+	<val>Yansirramus, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Yasammidan, Shrine</key>
+	<val>Yasammidan, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Yasamsi</key>
+	<val>Yasamsi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Yassu Mine</key>
+	<val>Kopalnia Yassu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Yesamsi</key>
+	<val>Yesamsi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zainab Camp</key>
+	<val>Obóz Zainab</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zainab Camp, Ababael Timsar-Dadisun's Yurt</key>
+	<val>Obóz Zainab, jurta Ababaela Timsar-Dadisuna</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zainab Camp, Ashibaal's Yurt</key>
+	<val>Obóz Zainab, jurta Ashibaala</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zainab Camp, Ashkhan's Yurt</key>
+	<val>Obóz Zainab, jurta Popielnego Chana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zainab Camp, Ashur-Dan's Yurt</key>
+	<val>Obóz Zainab, jurta Ashur-Dana</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zainab Camp, Kuda's Yurt</key>
+	<val>Obóz Zainab, jurta Kudy</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zainab Camp, Kummu's Yurt</key>
+	<val>Obóz Zainab, jurta Kummu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zainab Camp, Minassour's Yurt</key>
+	<val>Obóz Zainab, jurta Minassoura</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zainab Camp, Patababi's Yurt</key>
+	<val>Obóz Zainab, jurta Patababiego</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zainab Camp, Tussi's Yurt</key>
+	<val>Obóz Zainab, jurta Tussi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zainab Camp, Wise Woman's Yurt</key>
+	<val>Obóz Zainab, jurta Wieszczki</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zainsipilu</key>
+	<val>Zainsipilu</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zaintirari</key>
+	<val>Zaintirari</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zaintiraris</key>
+	<val>Zaintiraris</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zaintiraris, Shrine</key>
+	<val>Zaintiraris, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zalkin Grotto</key>
+	<val>Grota Zalkin</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zalkin-Sul Egg Mine</key>
+	<val>Kopalnia jaj Zalkin-Sul</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zanabi</key>
+	<val>Zanabi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zebabi</key>
+	<val>Zebabi</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zenarbael</key>
+	<val>Zenarbael</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zergonipal</key>
+	<val>Zergonipal</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>Zergonipal, Shrine</key>
+	<val>Zergonipal, kaplica</val>
+</record>
+<record>
+	<_id>CELL</_id>
+	<key>ken's test hole</key>
+	<val>testowa dziura Kena</val>
+</record>
