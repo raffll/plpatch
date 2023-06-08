@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1250"?>
-<!-- 3.1 -->
+<!-- 3.2 -->
 <record>
 	<_id>DIAL</_id>
 	<key>1000-drake pledge</key>
@@ -1013,6 +1013,7 @@
 	<_id>DIAL</_id>
 	<key>Cleaver of St. Felms</key>
 	<val>Tasak św. Felmsa</val>
+	<!-- ! -->
 </record>
 	<record>
 		<_id>DIAL</_id>
@@ -1083,6 +1084,7 @@
 	<_id>DIAL</_id>
 	<key>Crosier of St. Llothis</key>
 	<val>Pastorał św. Llothisa</val>
+	<!-- ! -->
 </record>
 	<record>
 		<_id>DIAL</_id>
@@ -1879,48 +1881,58 @@
 <record>
 	<_id>DIAL</_id>
 	<key>Fort Buckmoth</key>
-	<val>fort Jeleni</val>
+	<val>Fort Jeleni</val>
 </record>
 	<record>
 		<_id>DIAL</_id>
-		<key>Fort Jeleni</key>
-		<val>fort Jeleni</val>
+		<key>fort Jeleni</key>
+		<val>Fort Jeleni</val>
 	</record>
+	<!-- <<< -->
 <record>
 	<_id>DIAL</_id>
 	<key>Fort Darius</key>
-	<val>fort Darius</val>
+	<val>Fort Darius</val>
 </record>
+	<record>
+		<_id>DIAL</_id>
+		<key>fort Darius</key>
+		<val>Fort Darius</val>
+	</record>
+	<!-- <<< -->
 <record>
 	<_id>DIAL</_id>
 	<key>Fort Frostmoth</key>
-	<val>fort Śnieżny</val>
+	<val>Fort Śnieżny</val>
 </record>
 	<record>
 		<_id>DIAL</_id>
-		<key>Fort Śnieżny</key>
-		<val>fort Śnieżny</val>
+		<key>fort Śnieżny</key>
+		<val>Fort Śnieżny</val>
 	</record>
+	<!-- <<< -->
 <record>
 	<_id>DIAL</_id>
 	<key>Fort Moonmoth</key>
-	<val>fort Księżycowy</val>
+	<val>Fort Księżycowy</val>
 </record>
 	<record>
 		<_id>DIAL</_id>
-		<key>Fort Księżycowy</key>
-		<val>fort Księżycowy</val>
+		<key>fort Księżycowy</key>
+		<val>Fort Księżycowy</val>
 	</record>
+	<!-- <<< -->
 <record>
 	<_id>DIAL</_id>
 	<key>Fort business</key>
-	<val>sprawy fortu</val>
+	<val>sprawy Fortu</val>
 </record>
 	<record>
 		<_id>DIAL</_id>
-		<key>sprawy Fortu</key>
-		<val>sprawy fortu</val>
+		<key>sprawy fortu</key>
+		<val>sprawy Fortu</val>
 	</record>
+	<!-- <<< -->
 <record>
 	<_id>DIAL</_id>
 	<key>Forts</key>
@@ -2758,6 +2770,7 @@
 	<_id>DIAL</_id>
 	<key>Justice Offices</key>
 	<val>Biurze Sprawiedliwości</val>
+	<!-- ! -->
 </record>
 	<record>
 		<_id>DIAL</_id>
@@ -4385,6 +4398,7 @@
 	<_id>DIAL</_id>
 	<key>Shoes of St. Rilms</key>
 	<val>Buty św. Rilms</val>
+	<!-- ! -->
 </record>
 	<record>
 		<_id>DIAL</_id>
@@ -5065,6 +5079,7 @@
 	<_id>DIAL</_id>
 	<key>Tribunal fight Dagoth Ur</key>
 	<val>starcia Trójcy z Dagoth Urem</val>
+	<!-- ! -->
 </record>
 	<record>
 		<_id>DIAL</_id>

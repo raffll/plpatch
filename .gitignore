@@ -1,7 +1,7 @@
-
+master
+work
 *.bak
 *.log
 *.txt
-*.zip
 *.esm
 *.WinMerge
